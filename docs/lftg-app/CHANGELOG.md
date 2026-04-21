@@ -7,6 +7,11 @@ FORMAT
 - COMMIT
 
 2026-04-21
+- Hid Streamlit top chrome in the public app (Fork/menu/header/footer links) using CSS selectors in global theme styling
+- Public viewers now see only app content without Streamlit branding controls at the top edge
+- pending
+
+2026-04-21
 - Removed the left sidebar debug panel (Look & Feel, Data Status) from the public app and set initial sidebar state to collapsed
 - Public users now land directly in the full app view without the developer-facing side panel
 - 6fe765a

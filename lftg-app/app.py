@@ -175,6 +175,21 @@ def apply_theme(theme_name: str):
         div[role="option"]:hover {{
             background: rgba(255,216,77,0.22) !important;
         }}
+
+        /* Hide Streamlit chrome on public app (top bar, menu, footer, badges) */
+        header[data-testid="stHeader"],
+        [data-testid="stToolbar"],
+        [data-testid="stDecoration"],
+        [data-testid="stStatusWidget"],
+        #MainMenu,
+        footer,
+        .viewerBadge_container__1QSob,
+        .viewerBadge_link__1S137,
+        .viewerBadge_text__1JaDK {{
+            display: none !important;
+            visibility: hidden !important;
+            height: 0 !important;
+        }}
         </style>
         """,
         unsafe_allow_html=True,
