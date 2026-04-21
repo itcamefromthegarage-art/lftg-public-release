@@ -9,7 +9,7 @@ FORMAT
 2026-04-21
 - Added PUBLIC-RELEASE-CHECKLIST.md and linked it in TOOLS.md for repeatable pre-push safety and deployment verification
 - Reduces accidental public exposure risk and standardizes release QA before every live update
-- pending
+- be0145a
 
 2026-04-21
 - Hid Streamlit top chrome in the public app (Fork/menu/header/footer links) using CSS selectors in global theme styling
