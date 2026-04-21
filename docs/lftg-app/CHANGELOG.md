@@ -6,6 +6,11 @@ FORMAT
 - IMPACT
 - COMMIT
 
+2026-04-21
+- Removed the left sidebar debug panel (Look & Feel, Data Status) from the public app and set initial sidebar state to collapsed
+- Public users now land directly in the full app view without the developer-facing side panel
+- 6fe765a
+
 2026-03-28
 - Added reusable THREAD-STARTER.txt for fast new-thread continuity and correct file targeting
 - New threads can bootstrap LFTG context in seconds with canonical docs + paths + run commands
