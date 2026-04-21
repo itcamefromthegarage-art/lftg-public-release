@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 import streamlit.components.v1 as components
 
-st.set_page_config(page_title="20 Years Of Live From The Garage!", page_icon="🎵", layout="wide")
+st.set_page_config(page_title="20 Years Of Live From The Garage!", page_icon="🎵", layout="wide", initial_sidebar_state="collapsed")
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -855,8 +855,6 @@ def show_explorer_view(appearances: pd.DataFrame, videos: pd.DataFrame):
 
 def main():
     apply_theme("Vintage Poster")
-    st.sidebar.header("Look & Feel")
-    st.sidebar.write("Theme: Vintage Poster")
 
     st.markdown(
         """
@@ -873,12 +871,6 @@ def main():
         return
 
     appearances, shows, bands, videos = load_data()
-
-    st.sidebar.header("Data Status")
-    st.sidebar.write(f"Appearances rows: {len(appearances)}")
-    st.sidebar.write(f"Shows rows: {len(shows)}")
-    st.sidebar.write(f"Bands rows: {len(bands)}")
-    st.sidebar.write(f"Videos rows: {len(videos)}")
 
     tab1, tab2, tab3, tab4, tab5 = st.tabs(["Show Explorer", "Performer", "Band", "Leaderboards", "What Is LFTG?"])
     with tab1:
