@@ -1,7 +1,7 @@
 LFTG APP TOOLS
 
 LAST UPDATED
-- 2026-03-28
+- 2026-04-21
 
 PURPOSE
 - Canonical runbook for day-to-day edits and maintenance.
@@ -37,3 +37,4 @@ REFERENCE
 - Architecture: docs/lftg-app/ARCHITECTURE.md
 - Roadmap: docs/lftg-app/ROADMAP.md
 - Change history: docs/lftg-app/CHANGELOG.md
+- Public release safety checklist: docs/lftg-app/PUBLIC-RELEASE-CHECKLIST.md
