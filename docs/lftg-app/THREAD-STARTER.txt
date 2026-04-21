@@ -1,0 +1,58 @@
+LFTG APP THREAD STARTER (COPY/PASTE)
+
+Use this thread for ongoing LFTG app development.
+
+PROJECT ROOT
+- /Users/ndgms/.openclaw/workspace
+
+PRIMARY APP FILE
+- lftg-app/app.py
+
+CANONICAL DOCS (READ FIRST)
+- docs/lftg-app/README.md
+- docs/lftg-app/ARCHITECTURE.md
+- docs/lftg-app/TOOLS.md
+- docs/lftg-app/ROADMAP.md
+- docs/lftg-app/CHANGELOG.md
+
+LEGACY/REFERENCE DOCS
+- docs/LFTG-APP-OPERATIONS.md
+- docs/LFTG-APP-CHANGELOG.md
+- docs/LFTG-APP-QUICKSTART.md
+- docs/LFTG-APP-RECOVERY-CHECKLIST.md
+
+DATA + SYNC
+- lftg-data/data/shows.clean.csv
+- lftg-data/data/bands.clean.csv
+- lftg-data/data/appearances.normalized.csv
+- lftg-data/data/performers.clean.csv
+- lftg-data/data/setlists.clean.csv
+- lftg-data/data/videos.clean.csv
+- lftg-data/sync-from-sheet.py
+- lftg-data/sync-video-database.py
+
+ASSETS
+- lftg-app/assets/what-is-lftg-final/
+- lftg-app/assets/ndgms-teachers/
+- lftg-app/assets/posters/
+- lftg-app/assets/bands/
+
+RUN / RESTART
+- pkill -f "python3 -m streamlit run /Users/ndgms/.openclaw/workspace/lftg-app/app.py" || true
+- python3 -m streamlit run /Users/ndgms/.openclaw/workspace/lftg-app/app.py --server.port 8501 --server.headless true
+
+URLS
+- Local: http://localhost:8501
+- LAN: http://192.168.1.31:8501
+
+WORKING RULES
+- Make one change at a time, then verify visually.
+- For meaningful changes: update docs/lftg-app/CHANGELOG.md in same session.
+- If process/tooling/architecture changed: update TOOLS.md and/or ARCHITECTURE.md.
+
+DEFAULT REQUEST FORMAT
+- Goal:
+- Exact UI section/tab:
+- Exact text/photo changes:
+- Keep sizing/layout same? (yes/no)
+- Need restart after change? (yes/no)

@@ -1,0 +1,1024 @@
+show_id,show_label,band_id,band_name,performer_name_raw,performer_name_clean,role_raw,role_clean,source_line
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-strikes-twelve-main-band-debut,Strikes Twelve (Main Band - Debut),Saskia Gaucher,Saskia Gaucher,lead vocals,lead vocals,58
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-strikes-twelve-main-band-debut,Strikes Twelve (Main Band - Debut),Vanessa Salvo,Vanessa Salvo,guitar/bass,guitar; bass,59
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-strikes-twelve-main-band-debut,Strikes Twelve (Main Band - Debut),Vincent Freeman,Vincent Freeman,guitar/bass,guitar; bass,60
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-strikes-twelve-main-band-debut,Strikes Twelve (Main Band - Debut),Katie Simco,Katie Simco,guitar/bass,guitar; bass,61
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-strikes-twelve-main-band-debut,Strikes Twelve (Main Band - Debut),Phil Vennat,Phil Vennat,drums,drums,62
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-strikes-twelve-main-band-debut,Strikes Twelve (Main Band - Debut),Perfect Situation,Perfect Situation,Weezer,Weezer,65
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-strikes-twelve-main-band-debut,Strikes Twelve (Main Band - Debut),Sorry,Sorry,Strikes Twelve (original),Strikes Twelve (original),66
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-strikes-twelve-main-band-debut,Strikes Twelve (Main Band - Debut),Are You Gonna Be My Girl,Are You Gonna Be My Girl,Jet,Jet,67
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-strikes-twelve-main-band-debut,Strikes Twelve (Main Band - Debut),Otherside,Otherside,The Red Hot Chili Peppers,The Red Hot Chili Peppers,68
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-strikes-twelve-main-band-debut,Strikes Twelve (Main Band - Debut),Smells Like Teen Spirit,Smells Like Teen Spirit,Nirvana,Nirvana,69
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-the-soundwiches-guest-band,The Soundwiches (Guest Band),Sam Gyetvay,Sam Gyetvay,guitar/vocals,guitar; vocals,72
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-the-soundwiches-guest-band,The Soundwiches (Guest Band),Joj Helfer,Joj Helfer,drums/vocals,drums; vocals,73
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-the-soundwiches-guest-band,The Soundwiches (Guest Band),Zander Smith,Zander Smith,bass,bass,74
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-the-soundwiches-guest-band,The Soundwiches (Guest Band),Sam Trowbridge,Sam Trowbridge,trumpet,trumpet,75
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-the-soundwiches-guest-band,The Soundwiches (Guest Band),Fish,Fish,saxophone,saxophone,76
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-velvet-goldmine-guest-band,Velvet Goldmine (Guest Band),Corey Lesk,Corey Lesk,guitar/vocals,guitar; vocals,79
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-velvet-goldmine-guest-band,Velvet Goldmine (Guest Band),Austin Tex,Austin Tex,guitar,guitar,80
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-velvet-goldmine-guest-band,Velvet Goldmine (Guest Band),Noah Barer,Noah Barer,drums,drums,81
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-velvet-goldmine-guest-band,Velvet Goldmine (Guest Band),"Alex ""The Pompadour"" Kasirer-Smibert","Alex ""The Pompadour"" Kasirer-Smibert",bass,bass,82
+lftg-2-2006,LFTG 2 (2006),lftg-2-2006-velvet-goldmine-guest-band,Velvet Goldmine (Guest Band),William Batory-Bernardin,William Batory-Bernardin,keyboards,keyboards,83
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-the-jay-hawks,The Jay Hawks,Rachelle Lapointe,Rachelle Lapointe,vocals/guitar,vocals; guitar,98
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-the-jay-hawks,The Jay Hawks,Sébastien Latraverse,Sébastien Latraverse,bass,bass,99
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-the-jay-hawks,The Jay Hawks,Nicolas Latraverse,Nicolas Latraverse,keyboards,keyboards,100
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-the-jay-hawks,The Jay Hawks,Jon,Jon,drums,drums,101
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-mama-and-papa-so-mean,Mama and Papa so Mean,Lee-Ann Matthews,Lee-Ann Matthews,vocals,vocals,104
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-mama-and-papa-so-mean,Mama and Papa so Mean,Tina Hart,Tina Hart,vocals,vocals,105
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-mama-and-papa-so-mean,Mama and Papa so Mean,Wayne Hemsworth,Wayne Hemsworth,guitar,guitar,106
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-mama-and-papa-so-mean,Mama and Papa so Mean,Nick Hemsworth,Nick Hemsworth,guitar,guitar,107
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-mama-and-papa-so-mean,Mama and Papa so Mean,Arnold Dort,Arnold Dort,bass,bass,108
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-mama-and-papa-so-mean,Mama and Papa so Mean,Peter Schmidt,Peter Schmidt,drums,drums,109
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-root-u-square-root-u,√root U (Square Root U),Jiwon Shin,Jiwon Shin,vocals,vocals,112
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-root-u-square-root-u,√root U (Square Root U),Audrey Leduc,Audrey Leduc,vocals,vocals,113
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-root-u-square-root-u,√root U (Square Root U),Simon Durham,Simon Durham,guitar,guitar,114
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-root-u-square-root-u,√root U (Square Root U),Linda Durham,Linda Durham,keyboards,keyboards,115
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-root-u-square-root-u,√root U (Square Root U),Julia Durham,Julia Durham,guitar,guitar,116
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-root-u-square-root-u,√root U (Square Root U),Emma Durham,Emma Durham,guitar,guitar,117
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-root-u-square-root-u,√root U (Square Root U),Doug Stein,Doug Stein,drums,drums,118
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-the-daft-devils,The Daft Devils,Mario Giulione,Mario Giulione,vocals,vocals,121
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-the-daft-devils,The Daft Devils,Dr. Robert Drummond,Dr. Robert Drummond,guitar,guitar,122
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-the-daft-devils,The Daft Devils,Kenny Drummond,Kenny Drummond,guitar,guitar,123
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-the-daft-devils,The Daft Devils,Michael Fitch,Michael Fitch,guitar,guitar,124
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-the-daft-devils,The Daft Devils,Ken Drummond,Ken Drummond,guitar/bass,guitar; bass,125
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-the-daft-devils,The Daft Devils,Doug Stein,Doug Stein,drums,drums,126
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-the-wet-straps,The Wet Straps,Angela Murphy,Angela Murphy,vocals,vocals,129
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-the-wet-straps,The Wet Straps,Allan Gilmore,Allan Gilmore,guitar,guitar,130
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-the-wet-straps,The Wet Straps,Elyse Gasco,Elyse Gasco,bass,bass,131
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-the-wet-straps,The Wet Straps,Kira Gilmore,Kira Gilmore,guitar,guitar,132
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-the-wet-straps,The Wet Straps,Maya Gilmore,Maya Gilmore,percussion,percussion,133
+lftg-3-2007,LFTG 3 (2007),lftg-3-2007-the-wet-straps,The Wet Straps,Doug Stein,Doug Stein,drums,drums,134
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-root-u-square-root-u,√root U (Square Root U),Trevor Hooton,Trevor Hooton,vocals,vocals,149
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-root-u-square-root-u,√root U (Square Root U),Simon Durham,Simon Durham,guitar,guitar,150
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-root-u-square-root-u,√root U (Square Root U),Linda Durham,Linda Durham,keyboards,keyboards,151
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-root-u-square-root-u,√root U (Square Root U),Julia Durham,Julia Durham,guitar,guitar,152
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-root-u-square-root-u,√root U (Square Root U),Emma Durham,Emma Durham,guitar,guitar,153
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-root-u-square-root-u,√root U (Square Root U),Samantha Backman,Samantha Backman,guitar,guitar,154
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-root-u-square-root-u,√root U (Square Root U),Mark Charbonneau,Mark Charbonneau,drums,drums,155
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-j-stein-blues-experience,The J. STEIN BLUES EXPERIENCE!,Rick Collins,Rick Collins,vocals,vocals,158
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-j-stein-blues-experience,The J. STEIN BLUES EXPERIENCE!,Bill Kreklewetz,Bill Kreklewetz,guitar,guitar,159
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-j-stein-blues-experience,The J. STEIN BLUES EXPERIENCE!,Wayne Hemsworth,Wayne Hemsworth,guitar,guitar,160
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-j-stein-blues-experience,The J. STEIN BLUES EXPERIENCE!,Tim Dougherty,Tim Dougherty,guitar,guitar,161
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-j-stein-blues-experience,The J. STEIN BLUES EXPERIENCE!,Dominic Supino,Dominic Supino,guitar,guitar,162
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-j-stein-blues-experience,The J. STEIN BLUES EXPERIENCE!,Jean Boisvert,Jean Boisvert,bass,bass,163
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-j-stein-blues-experience,The J. STEIN BLUES EXPERIENCE!,Mark Charbonneau,Mark Charbonneau,drums,drums,164
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-crumb-snatchers,The Crumb Snatchers,Sam Gyetvay,Sam Gyetvay,vocals/guitar,vocals; guitar,167
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-crumb-snatchers,The Crumb Snatchers,Zander Smith,Zander Smith,bass,bass,168
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-crumb-snatchers,The Crumb Snatchers,Lij,Lij,saxophone,saxophone,169
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-crumb-snatchers,The Crumb Snatchers,Mark Charbonneau,Mark Charbonneau,drums,drums,170
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-above-the-clinic,Above The Clinic,Mario Giulione,Mario Giulione,vocals,vocals,173
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-above-the-clinic,Above The Clinic,Allan Gilmour,Allan Gilmour,guitar,guitar,174
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-above-the-clinic,Above The Clinic,Elyse Gasco,Elyse Gasco,bass,bass,175
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-above-the-clinic,Above The Clinic,Vincent Freeman,Vincent Freeman,guitar,guitar,176
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-above-the-clinic,Above The Clinic,Jay Blumenstein,Jay Blumenstein,drums,drums,177
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-daft-devils,The Daft Devils,Mario Giulione,Mario Giulione,vocals,vocals,180
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-daft-devils,The Daft Devils,Robert Drummond,Robert Drummond,guitar,guitar,181
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-daft-devils,The Daft Devils,Kenny Drummond,Kenny Drummond,guitar,guitar,182
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-daft-devils,The Daft Devils,Michael Fitch,Michael Fitch,guitar,guitar,183
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-daft-devils,The Daft Devils,Kenny Drummond,Ken Drummond,bass,bass,184
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-daft-devils,The Daft Devils,Jay Blumenstein,Jay Blumenstein,drums,drums,185
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-falling-project,The Falling Project,Mario Giulione,Mario Giulione,vocals,vocals,188
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-falling-project,The Falling Project,Ryan Adessky,Ryan Adessky,guitar,guitar,189
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-falling-project,The Falling Project,Christian Buchanan,Christian Buchanan,guitar,guitar,190
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-falling-project,The Falling Project,Thomas Martinet,Thomas Martinet,guitar,guitar,191
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-falling-project,The Falling Project,Tristan Supino,Tristan Supino,guitar,guitar,192
+lftg-4-2007,LFTG 4 (2007),lftg-4-2007-the-falling-project,The Falling Project,Jay Blumenstein,Jay Blumenstein,drums,drums,193
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-rock-n-roll-101-201-301,"Rock'n'Roll 101, 201, 301…",Cardova:,Cardova:,,,208
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-rock-n-roll-101-201-301,"Rock'n'Roll 101, 201, 301…",Sam Gyetvay,Sam Gyetvay,guitar,guitar,209
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-rock-n-roll-101-201-301,"Rock'n'Roll 101, 201, 301…",Jonathan Feist,Jonathan Feist,guitar/vocals,guitar; vocals,210
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-rock-n-roll-101-201-301,"Rock'n'Roll 101, 201, 301…",Zander Smith,Zander Smith,bass,bass,211
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-rock-n-roll-101-201-301,"Rock'n'Roll 101, 201, 301…",Basil Charbonneau,Basil Charbonneau,keyboards,keyboards,212
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-rock-n-roll-101-201-301,"Rock'n'Roll 101, 201, 301…",Mark Charbonneau,Mark Charbonneau,drums,drums,213
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-j-stein-blues-experience,The J. STEIN BLUES EXPERIENCE!,Rick Collins,Rick Collins,vocals,vocals,216
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-j-stein-blues-experience,The J. STEIN BLUES EXPERIENCE!,Bill Kreklewetz,Bill Kreklewetz,guitar,guitar,217
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-j-stein-blues-experience,The J. STEIN BLUES EXPERIENCE!,Wayne Hemsworth,Wayne Hemsworth,guitar,guitar,218
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-j-stein-blues-experience,The J. STEIN BLUES EXPERIENCE!,Tim Dougherty,Tim Dougherty,guitar,guitar,219
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-j-stein-blues-experience,The J. STEIN BLUES EXPERIENCE!,Dominic Supino,Dominic Supino,guitar,guitar,220
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-j-stein-blues-experience,The J. STEIN BLUES EXPERIENCE!,Tristan Hemsworth,Tristan Hemsworth,bass,bass,221
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-j-stein-blues-experience,The J. STEIN BLUES EXPERIENCE!,Mark Charbonneau,Mark Charbonneau,drums,drums,222
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-breaking-tables,Breaking Tables,Trevor Hooton,Trevor Hooton,vocals,vocals,225
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-breaking-tables,Breaking Tables,Samantha Backman,Samantha Backman,guitar,guitar,226
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-breaking-tables,Breaking Tables,Simon Durham,Simon Durham,guitar,guitar,227
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-breaking-tables,Breaking Tables,Linda Durham,Linda Durham,keyboards,keyboards,228
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-breaking-tables,Breaking Tables,Julia Durham,Julia Durham,guitar,guitar,229
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-breaking-tables,Breaking Tables,Emma Durham,Emma Durham,guitar,guitar,230
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-breaking-tables,Breaking Tables,Zander Smith,Zander Smith,bass,bass,231
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-breaking-tables,Breaking Tables,Jay Blumenstein,Jay Blumenstein,drums,drums,232
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-falling-project,The Falling Project,Mario Giulione,Mario Giulione,vocals,vocals,235
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-falling-project,The Falling Project,Ryan Adessky,Ryan Adessky,guitar,guitar,236
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-falling-project,The Falling Project,Christian Buchanan,Christian Buchanan,guitar,guitar,237
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-falling-project,The Falling Project,Tristan Supino,Tristan Supino,guitar,guitar,238
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-falling-project,The Falling Project,Nicolas Martinet,Nicolas Martinet,bass,bass,239
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-falling-project,The Falling Project,Jay Blumenstein,Jay Blumenstein,drums,drums,240
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-daft-devils,The Daft Devils,Mario Giulione,Mario Giulione,vocals,vocals,243
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-daft-devils,The Daft Devils,Robert Drummond,Robert Drummond,guitar,guitar,244
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-daft-devils,The Daft Devils,Kenny Drummond,Kenny Drummond,guitar,guitar,245
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-daft-devils,The Daft Devils,Michael Fitch,Michael Fitch,guitar,guitar,246
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-daft-devils,The Daft Devils,Thomas Martinet,Thomas Martinet,guitar,guitar,247
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-daft-devils,The Daft Devils,Kenny Drummond,Kenny Drummond,guitar/bass,guitar,248
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-daft-devils,The Daft Devils,Kenny Drummond,Ken Drummond,guitar/bass,bass,248
+lftg-5-2008,LFTG 5 (2008),lftg-5-2008-the-daft-devils,The Daft Devils,Ron Baluch,Ron Baluch,drums,drums,249
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-u2,U2,Moe Clark,Moe Clark,vocals,vocals,264
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-u2,U2,Robin Kreklewetz,Robin Kreklewetz,guitar,guitar,265
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-u2,U2,Samantha Backman,Samantha Backman,guitar,guitar,266
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-u2,U2,Mark Charbonneau,Mark Charbonneau,drums,drums,267
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-jack-johnson,Jack Johnson,Cliff Caporale,Cliff Caporale,vocals,vocals,270
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-jack-johnson,Jack Johnson,Jack Melkerson,Jack Melkerson,guitar,guitar,271
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-jack-johnson,Jack Johnson,Nicolas Martinet,Nicolas Martinet,guitar,guitar,272
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-jack-johnson,Jack Johnson,Mark Trudel,Mark Trudel,guitar,guitar,273
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-jack-johnson,Jack Johnson,Nick Trudel,Nick Trudel,bass,bass,274
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-jack-johnson,Jack Johnson,William Gaucher,William Gaucher,drums,drums,275
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-tribute-to-the-kings-rush-tribute,Tribute To The Kings (Rush tribute),Rick Collins,Rick Collins,vocals,vocals,278
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-tribute-to-the-kings-rush-tribute,Tribute To The Kings (Rush tribute),Bill Kreklewetz,Bill Kreklewetz,guitar,guitar,279
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-tribute-to-the-kings-rush-tribute,Tribute To The Kings (Rush tribute),Wayne Hemsworth,Wayne Hemsworth,guitar,guitar,280
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-tribute-to-the-kings-rush-tribute,Tribute To The Kings (Rush tribute),Tim Dougherty,Tim Dougherty,guitar,guitar,281
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-tribute-to-the-kings-rush-tribute,Tribute To The Kings (Rush tribute),Dominic Supino,Dominic Supino,guitar,guitar,282
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-tribute-to-the-kings-rush-tribute,Tribute To The Kings (Rush tribute),Chris Kreklewetz,Chris Kreklewetz,keyboards,keyboards,283
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-tribute-to-the-kings-rush-tribute,Tribute To The Kings (Rush tribute),Jean Boisvert,Jean Boisvert,bass,bass,284
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-tribute-to-the-kings-rush-tribute,Tribute To The Kings (Rush tribute),Mark Charbonneau,Mark Charbonneau,drums,drums,285
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-santana,Santana,Mario Giulione,Mario Giulione,vocals,vocals,288
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-santana,Santana,Robert Drummond,Robert Drummond,guitar,guitar,289
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-santana,Santana,Kenny Drummond,Kenny Drummond,guitar,guitar,290
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-santana,Santana,Michael Fitch,Michael Fitch,guitar,guitar,291
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-santana,Santana,Jeremy Wallace,Jeremy Wallace,guitar,guitar,292
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-santana,Santana,Ken Drummond,Ken Drummond,bass,bass,293
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-santana,Santana,Marla Caplan,Marla Caplan,drums,drums,294
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-santana,Santana,Chris Kreklewetz,Chris Kreklewetz,keyboards,keyboards,295
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-radiohead,Radiohead,Mario Giulione,Mario Giulione,vocals,vocals,298
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-radiohead,Radiohead,Allan Gilmour,Allan Gilmour,guitar,guitar,299
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-radiohead,Radiohead,Elyse Gasco,Elyse Gasco,bass,bass,300
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-radiohead,Radiohead,Jay Blumenstein,Jay Blumenstein,drums,drums,301
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-radiohead,Radiohead,Maya Gilmour,Maya Gilmour,drums,drums,302
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-rage-against-the-machine,Rage Against The Machine,Jonathan Feist,Jonathan Feist,vocals,vocals,305
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-rage-against-the-machine,Rage Against The Machine,Jordi Soldevila,Jordi Soldevila,guitar,guitar,306
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-rage-against-the-machine,Rage Against The Machine,Christian Buchanan,Christian Buchanan,guitar,guitar,307
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-rage-against-the-machine,Rage Against The Machine,Mathew Aisen,Mathew Aisen,guitar,guitar,308
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-rage-against-the-machine,Rage Against The Machine,Sam Gyetvay,Sam Gyetvay,guitar,guitar,309
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-rage-against-the-machine,Rage Against The Machine,Zander Smith,Zander Smith,bass,bass,310
+lftg-6-2008,LFTG 6 (2008),lftg-6-2008-rage-against-the-machine,Rage Against The Machine,Benjamin Dumas-Boisvert,Benjamin Dumas-Boisvert,drums,drums,311
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-50-s-the-birth-of-rock,The 50's - The Birth of Rock,Rick Collins,Rick Collins,vocals,vocals,326
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-50-s-the-birth-of-rock,The 50's - The Birth of Rock,Tim Dougherty,Tim Dougherty,guitar,guitar,327
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-50-s-the-birth-of-rock,The 50's - The Birth of Rock,Wayne Hemsworth,Wayne Hemsworth,guitar,guitar,328
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-50-s-the-birth-of-rock,The 50's - The Birth of Rock,Bill Kreklewetz,Bill Kreklewetz,guitar,guitar,329
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-50-s-the-birth-of-rock,The 50's - The Birth of Rock,Dominic Supino,Dominic Supino,guitar,guitar,330
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-50-s-the-birth-of-rock,The 50's - The Birth of Rock,Darquis Rivard,Darquis Rivard,bass,bass,331
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-50-s-the-birth-of-rock,The 50's - The Birth of Rock,Chris Kreklewetz,Chris Kreklewetz,keyboards,keyboards,332
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-50-s-the-birth-of-rock,The 50's - The Birth of Rock,Mark Charbonneau,Mark Charbonneau,drums,drums,333
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-60-s-female-vocalists,The 60's - Female Vocalists,Saskia Gaucher,Saskia Gaucher,vocals,vocals,336
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-60-s-female-vocalists,The 60's - Female Vocalists,Matt Aisen,Matt Aisen,guitar,guitar,337
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-60-s-female-vocalists,The 60's - Female Vocalists,Samantha Backman,Samantha Backman,guitar,guitar,338
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-60-s-female-vocalists,The 60's - Female Vocalists,Robin Kreklewetz,Robin Kreklewetz,guitar,guitar,339
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-60-s-female-vocalists,The 60's - Female Vocalists,Zander Smith,Zander Smith,bass,bass,340
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-60-s-female-vocalists,The 60's - Female Vocalists,Doug Stein,Doug Stein,drums,drums,341
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-60-s-the-british-invasion,The 60's - The British Invasion,Steve Herskovitz,Steve Herskovitz,vocals,vocals,344
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-60-s-the-british-invasion,The 60's - The British Invasion,Zander Brais,Zander Brais,guitar,guitar,345
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-60-s-the-british-invasion,The 60's - The British Invasion,Emma Durham,Emma Durham,guitar,guitar,346
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-60-s-the-british-invasion,The 60's - The British Invasion,Simon Durham,Simon Durham,guitar,guitar,347
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-60-s-the-british-invasion,The 60's - The British Invasion,Nick Trudel,Nick Trudel,bass,bass,348
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-60-s-the-british-invasion,The 60's - The British Invasion,Nadim Hashim,Nadim Hashim,drums,drums,349
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-70-s-am-rock,The 70's - AM Rock,Angela Murphy,Angela Murphy,vocals,vocals,352
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-70-s-am-rock,The 70's - AM Rock,Allan Gilmour,Allan Gilmour,guitar,guitar,353
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-70-s-am-rock,The 70's - AM Rock,Elyse Gasco,Elyse Gasco,bass,bass,354
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-70-s-am-rock,The 70's - AM Rock,Jay Blumenstein,Jay Blumenstein,drums,drums,355
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-70-s-am-rock,The 70's - AM Rock,Maya Gilmour,Maya Gilmour,drums,drums,356
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-80-s-alternative-rock,The 80's - Alternative Rock,Christina Sciascia,Christina Sciascia,vocals/guitar,vocals; guitar,359
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-80-s-alternative-rock,The 80's - Alternative Rock,Aura Burko,Aura Burko,guitar,guitar,360
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-80-s-alternative-rock,The 80's - Alternative Rock,Elyse Gasco,Elyse Gasco,bass,bass,361
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-80-s-alternative-rock,The 80's - Alternative Rock,Cara Webb,Cara Webb,drums,drums,362
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-80-s-canadian-rock,The 80's - Canadian Rock,Angela Murphy,Angela Murphy,vocals,vocals,365
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-80-s-canadian-rock,The 80's - Canadian Rock,Robert Drummond,Robert Drummond,guitar,guitar,366
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-80-s-canadian-rock,The 80's - Canadian Rock,Kenny Drummond,Kenny Drummond,guitar,guitar,367
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-80-s-canadian-rock,The 80's - Canadian Rock,Michael Fitch,Michael Fitch,guitar,guitar,368
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-80-s-canadian-rock,The 80's - Canadian Rock,Amanda Fitch,Amanda Fitch,keyboards,keyboards,369
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-80-s-canadian-rock,The 80's - Canadian Rock,Fred Bouchard,Fred Bouchard,drums,drums,370
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-90-s-the-seattle-sound,The 90's - The Seattle Sound,Mario Giulione,Mario Giulione,vocals,vocals,373
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-90-s-the-seattle-sound,The 90's - The Seattle Sound,Christian Buchanan,Christian Buchanan,guitar,guitar,374
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-90-s-the-seattle-sound,The 90's - The Seattle Sound,Jordi Soldevila,Jordi Soldevila,guitar,guitar,375
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-90-s-the-seattle-sound,The 90's - The Seattle Sound,Jeremy Wallace,Jeremy Wallace,guitar,guitar,376
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-90-s-the-seattle-sound,The 90's - The Seattle Sound,Zander Smith,Zander Smith,bass,bass,377
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-90-s-the-seattle-sound,The 90's - The Seattle Sound,Doug Stein,Doug Stein,drums,drums,378
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-2000-s-modern-rock,The 2000's - Modern Rock,Mario Giulione,Mario Giulione,vocals,vocals,381
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-2000-s-modern-rock,The 2000's - Modern Rock,Nicolas Martinet,Nicolas Martinet,guitar,guitar,382
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-2000-s-modern-rock,The 2000's - Modern Rock,Nick Trudel,Nick Trudel,bass,bass,383
+lftg-7-2009,LFTG 7 (2009),lftg-7-2009-the-2000-s-modern-rock,The 2000's - Modern Rock,William Gaucher,William Gaucher,drums,drums,384
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-the-daft-devils,The Daft Devils,Steve Herskovitz,Steve Herskovitz,vocals,vocals,399
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-the-daft-devils,The Daft Devils,Robert Drummond,Robert Drummond,guitar,guitar,400
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-the-daft-devils,The Daft Devils,Kenny Drummond,Kenny Drummond,guitar,guitar,401
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-the-daft-devils,The Daft Devils,Michael Fitch,Michael Fitch,guitar,guitar,402
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-the-daft-devils,The Daft Devils,Chris Kreklewetz,Chris Kreklewetz,keyboards,keyboards,403
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-the-daft-devils,The Daft Devils,Fred Bouchard,Fred Bouchard,drums,drums,404
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-sonic-white,Sonic White,Tim Smith,Tim Smith,vocals,vocals,407
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-sonic-white,Sonic White,Samantha Backman,Samantha Backman,guitar,guitar,408
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-sonic-white,Sonic White,Robin Kreklewetz,Robin Kreklewetz,guitar,guitar,409
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-sonic-white,Sonic White,Nick Trudel,Nick Trudel,bass,bass,410
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-sonic-white,Sonic White,Jay Blumenstein,Jay Blumenstein,drums,drums,411
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-your-mother,Your Mother,Christina Sciascia,Christina Sciascia,vocals/guitar,vocals; guitar,414
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-your-mother,Your Mother,Aura Burko,Aura Burko,guitar,guitar,415
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-your-mother,Your Mother,Elyse Gasco,Elyse Gasco,bass,bass,416
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-your-mother,Your Mother,Cara Webb,Cara Webb,drums,drums,417
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-audio-overdrive,Audio Overdrive,Mario Giulione,Mario Giulione,vocals,vocals,420
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-audio-overdrive,Audio Overdrive,Matt Aisen,Matt Aisen,guitar,guitar,421
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-audio-overdrive,Audio Overdrive,Jordi Soldevila,Jordi Soldevila,guitar,guitar,422
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-audio-overdrive,Audio Overdrive,Christian Buchanan,Christian Buchanan,guitar,guitar,423
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-audio-overdrive,Audio Overdrive,Zander Smith,Zander Smith,bass,bass,424
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-audio-overdrive,Audio Overdrive,Doug Stein,Doug Stein,drums,drums,425
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-clap-beat-good,Clap Beat Good,Tim Smith,Tim Smith,vocals,vocals,428
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-clap-beat-good,Clap Beat Good,Jack Melkerson,Jack Melkerson,guitar,guitar,429
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-clap-beat-good,Clap Beat Good,Emma Durham,Emma Durham,guitar,guitar,430
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-clap-beat-good,Clap Beat Good,Simon Durham,Simon Durham,guitar,guitar,431
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-clap-beat-good,Clap Beat Good,Nick Trudel,Nick Trudel,bass,bass,432
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-clap-beat-good,Clap Beat Good,Doug Stein,Doug Stein,drums,drums,433
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-pink-radio,Pink Radio,Mario Giulione,Mario Giulione,vocals,vocals,436
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-pink-radio,Pink Radio,Allan Gilmour,Allan Gilmour,guitar,guitar,437
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-pink-radio,Pink Radio,Marcel Aulls,Marcel Aulls,guitar,guitar,438
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-pink-radio,Pink Radio,Elyse Gasco,Elyse Gasco,bass,bass,439
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-pink-radio,Pink Radio,Michael Fitch,Michael Fitch,keyboards,keyboards,440
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-pink-radio,Pink Radio,Jay Blumenstein,Jay Blumenstein,drums,drums,441
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-dominic-and-the-dominators,Dominic and the Dominators,Rick Collins,Rick Collins,vocals,vocals,444
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-dominic-and-the-dominators,Dominic and the Dominators,Tina Hartt,Tina Hartt,vocals,vocals,445
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-dominic-and-the-dominators,Dominic and the Dominators,Lee-Ann Matthews,Lee-Ann Matthews,backup vocals,backup vocals,446
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-dominic-and-the-dominators,Dominic and the Dominators,Tim Dougherty,Tim Dougherty,guitar,guitar,447
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-dominic-and-the-dominators,Dominic and the Dominators,Wayne Hemsworth,Wayne Hemsworth,guitar,guitar,448
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-dominic-and-the-dominators,Dominic and the Dominators,Bill Kreklewetz,Bill Kreklewetz,guitar,guitar,449
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-dominic-and-the-dominators,Dominic and the Dominators,Dominic Supino,Dominic Supino,guitar,guitar,450
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-dominic-and-the-dominators,Dominic and the Dominators,Darquis Rivard,Darquis Rivard,bass,bass,451
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-dominic-and-the-dominators,Dominic and the Dominators,Chris Kreklewetz,Chris Kreklewetz,keyboards,keyboards,452
+lftg-8-2009,LFTG 8 (2009),lftg-8-2009-dominic-and-the-dominators,Dominic and the Dominators,Rob Surridge,Rob Surridge,drums,drums,453
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-the-daft-devils,The Daft Devils,Robert Drummond,Robert Drummond,guitar,guitar,467
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-the-daft-devils,The Daft Devils,Kenny Drummond,Kenny Drummond,guitar,guitar,468
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-the-daft-devils,The Daft Devils,Michael Fitch,Michael Fitch,guitar,guitar,469
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-the-daft-devils,The Daft Devils,Ken Drummond,Ken Drummond,bass,bass,470
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-the-daft-devils,The Daft Devils,Christina Sciascia,Christina Sciascia,vocals,vocals,471
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-the-daft-devils,The Daft Devils,Shawn Payette,Shawn Payette,drums,drums,472
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-above-the-clinic,Above the Clinic,Marcel Aulls,Marcel Aulls,guitar,guitar,475
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-above-the-clinic,Above the Clinic,Allan Gilmour,Allan Gilmour,guitar,guitar,476
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-above-the-clinic,Above the Clinic,Elyse Gasco,Elyse Gasco,bass,bass,477
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-above-the-clinic,Above the Clinic,Mario Giulione,Mario Giulione,vocals,vocals,478
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-above-the-clinic,Above the Clinic,Jay Blumenstein,Jay Blumenstein,drums,drums,479
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-surf-s-up,Surf's Up!,Elia Nissan,Elia Nissan,guitar,guitar,482
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-surf-s-up,Surf's Up!,Zander Smith,Zander Smith,bass,bass,483
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-surf-s-up,Surf's Up!,Jay Blumenstein,Jay Blumenstein,drums,drums,484
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-the-muted,The Muted,Isabella Byrne,Isabella Byrne,guitar,guitar,487
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-the-muted,The Muted,Lara Clarke-Gascon,Lara Clarke-Gascon,guitar/bass,guitar; bass,488
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-the-muted,The Muted,Yasmine Kamen,Yasmine Kamen,guitar/bass,guitar; bass,489
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-the-muted,The Muted,Roma Burdman-Gelgor,Roma Burdman-Gelgor,vocals,vocals,490
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-the-muted,The Muted,Catherine Drummond,Catherine Drummond,drums,drums,491
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-citizen-jane,Citizen Jane,Jaclyn Gordon,Jaclyn Gordon,vocals,vocals,494
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-citizen-jane,Citizen Jane,Riley Goldsmith,Riley Goldsmith,keyboards/back up vocals,keyboards; back up vocals,495
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-citizen-jane,Citizen Jane,Emico Berman,Emico Berman,bass,bass,496
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-citizen-jane,Citizen Jane,Maya Gilmour,Maya Gilmour,drums,drums,497
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-citizen-jane,Citizen Jane,Kenny Drummond,Kenny Drummond,guitar,guitar,498
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-citizen-jane,Citizen Jane,Allan Gilmour,Allan Gilmour,guitar,guitar,499
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-citizen-jane,Citizen Jane,Marla Caplan,Marla Caplan,guitar,guitar,500
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-evolution-destruction,Evolution Destruction,Samantha Backman,Samantha Backman,guitar,guitar,503
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-evolution-destruction,Evolution Destruction,Zander Brais,Zander Brais,guitar,guitar,504
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-evolution-destruction,Evolution Destruction,Robin Kreklewetz,Robin Kreklewetz,guitar,guitar,505
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-evolution-destruction,Evolution Destruction,Zander Smith,Zander Smith,bass,bass,506
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-evolution-destruction,Evolution Destruction,Steve Herskovitz,Steve Herskovitz,vocals,vocals,507
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-evolution-destruction,Evolution Destruction,Jay Blumenstein,Jay Blumenstein,drums,drums,508
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-sell-it-to-the-crowd,Sell It To The Crowd,Emma Durham,Emma Durham,guitar,guitar,511
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-sell-it-to-the-crowd,Sell It To The Crowd,Simon Durham,Simon Durham,guitar,guitar,512
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-sell-it-to-the-crowd,Sell It To The Crowd,Jack Melkerson,Jack Melkerson,guitar,guitar,513
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-sell-it-to-the-crowd,Sell It To The Crowd,Zander Smith,Zander Smith,bass,bass,514
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-sell-it-to-the-crowd,Sell It To The Crowd,Michael Fitch,Michael Fitch,keyboards,keyboards,515
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-sell-it-to-the-crowd,Sell It To The Crowd,Steve Herskovitz,Steve Herskovitz,vocals,vocals,516
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-sell-it-to-the-crowd,Sell It To The Crowd,Nadim Hashim,Nadim Hashim,drums,drums,517
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-fire-in-the-sky,Fire In the Sky,Mathew Aisen,Mathew Aisen,guitar,guitar,520
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-fire-in-the-sky,Fire In the Sky,AJ Davies-Jordan,AJ Davies-Jordan,guitar,guitar,521
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-fire-in-the-sky,Fire In the Sky,Zander Smith,Zander Smith,bass,bass,522
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-fire-in-the-sky,Fire In the Sky,Mario Giulione,Mario Giulione,vocals,vocals,523
+lftg-9-2010,LFTG 9 (2010),lftg-9-2010-fire-in-the-sky,Fire In the Sky,Doug Stein,Doug Stein,drums,drums,524
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-daft-devils,The Daft Devils,Robert Drummond,Robert Drummond,guitar,guitar,539
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-daft-devils,The Daft Devils,Kenny Drummond,Kenny Drummond,guitar,guitar,540
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-daft-devils,The Daft Devils,Michael Fitch,Michael Fitch,guitar,guitar,541
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-daft-devils,The Daft Devils,Ken Drummond,Ken Drummond,bass,bass,542
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-daft-devils,The Daft Devils,Jay Ross,Jay Ross,vocals,vocals,543
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-daft-devils,The Daft Devils,Doug Stein,Doug Stein,drums,drums,544
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-indra-club,The Indra Club,Matt Aisen,Matt Aisen,guitar,guitar,547
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-indra-club,The Indra Club,Riley Cohen,Riley Cohen,guitar,guitar,548
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-indra-club,The Indra Club,Dylan Langburt,Dylan Langburt,guitar,guitar,549
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-indra-club,The Indra Club,Zander Smith,Zander Smith,bass,bass,550
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-indra-club,The Indra Club,Michael Fitch,Michael Fitch,keyboards/guitar,keyboards; guitar,551
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-indra-club,The Indra Club,Carlos Hernandez-Zapien,Carlos Hernandez-Zapien,vocals,vocals,552
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-indra-club,The Indra Club,Natasha Rose,Natasha Rose,vocals,vocals,553
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-indra-club,The Indra Club,Aaron Dolman,Aaron Dolman,drums,drums,554
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-brothers,The Brothers,Pascal Spiegler,Pascal Spiegler,guitar,guitar,557
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-brothers,The Brothers,Jason Spiegler,Jason Spiegler,guitar,guitar,558
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-brothers,The Brothers,Matt Aisen,Matt Aisen,guitar,guitar,559
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-brothers,The Brothers,Nathalie Gervais,Nathalie Gervais,vocals,vocals,560
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-brothers,The Brothers,Amanda Fitch,Amanda Fitch,keyboards,keyboards,561
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-brothers,The Brothers,Nadim Hashim,Nadim Hashim,drums,drums,562
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-twenty-fingers,Twenty Fingers,Jordan Edelstein,Jordan Edelstein,guitar,guitar,565
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-twenty-fingers,Twenty Fingers,Elia Nissan,Elia Nissan,guitar,guitar,566
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-twenty-fingers,Twenty Fingers,Sean Roberts,Sean Roberts,guitar,guitar,567
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-twenty-fingers,Twenty Fingers,David Greenstein,David Greenstein,bass,bass,568
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-twenty-fingers,Twenty Fingers,Steve Herskovitz,Steve Herskovitz,vocals,vocals,569
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-twenty-fingers,Twenty Fingers,Jay Blumenstein,Jay Blumenstein,drums,drums,570
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-through-waves,Through Waves,AJ Davies-Jordan,AJ Davies-Jordan,guitar,guitar,573
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-through-waves,Through Waves,Robin Kreklewetz,Robin Kreklewetz,guitar,guitar,574
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-through-waves,Through Waves,Erica Patulli,Erica Patulli,guitar,guitar,575
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-through-waves,Through Waves,David Greenstein,David Greenstein,bass,bass,576
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-through-waves,Through Waves,Marc Kimmel,Marc Kimmel,vocals,vocals,577
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-through-waves,Through Waves,Chris Kreklewetz,Chris Kreklewetz,keyboards,keyboards,578
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-through-waves,Through Waves,Matthew Patulli,Matthew Patulli,drums,drums,579
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-muted,The Muted,Isabella Byrne,Isabella Byrne,guitar,guitar,582
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-muted,The Muted,Anita Haurie,Anita Haurie,guitar/bass,guitar; bass,583
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-muted,The Muted,Yasmine Kamen,Yasmine Kamen,guitar/bass,guitar; bass,584
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-muted,The Muted,Christina Sciascia,Christina Sciascia,vocals,vocals,585
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-muted,The Muted,Amanda Fitch,Amanda Fitch,keyboards,keyboards,586
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-the-muted,The Muted,Mark Charbonneau,Mark Charbonneau,drums,drums,587
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-los-tres-gatos,Los Tres Gatos,Tim Dougherty,Tim Dougherty,guitar,guitar,590
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-los-tres-gatos,Los Tres Gatos,Wayne Hemsworth,Wayne Hemsworth,guitar,guitar,591
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-los-tres-gatos,Los Tres Gatos,Dominic Supino,Dominic Supino,guitar,guitar,592
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-los-tres-gatos,Los Tres Gatos,Ken Drummond,Ken Drummond,bass,bass,593
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-los-tres-gatos,Los Tres Gatos,Carl Brabander,Carl Brabander,vocals,vocals,594
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-los-tres-gatos,Los Tres Gatos,Patrick Houston,Patrick Houston,drums,drums,595
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-this-wasted-land,This Wasted Land,Marcel Aulls,Marcel Aulls,guitar,guitar,598
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-this-wasted-land,This Wasted Land,Allan Gilmour,Allan Gilmour,guitar,guitar,599
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-this-wasted-land,This Wasted Land,Elyse Gasco,Elyse Gasco,bass,bass,600
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-this-wasted-land,This Wasted Land,Angela Murphy,Angela Murphy,vocals,vocals,601
+lftg-10-2011,LFTG 10 (2011),lftg-10-2011-this-wasted-land,This Wasted Land,Jay Blumenstein,Jay Blumenstein,drums,drums,602
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-flu-fighters,The Flu Fighters,Matt Aisen,Matt Aisen,guitar,guitar,616
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-flu-fighters,The Flu Fighters,Michael Fitch,Michael Fitch,guitar,guitar,617
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-flu-fighters,The Flu Fighters,Zander Smith,Zander Smith,bass,bass,618
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-flu-fighters,The Flu Fighters,Mario Giulione,Mario Giulione,vocals,vocals,619
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-flu-fighters,The Flu Fighters,Doug Stein,Doug Stein,drums,drums,620
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-daft-devils,The Daft Devils,Robert Drummond,Robert Drummond,guitar,guitar,623
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-daft-devils,The Daft Devils,Kenny Drummond,Kenny Drummond,guitar,guitar,624
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-daft-devils,The Daft Devils,Michael Fitch,Michael Fitch,guitar,guitar,625
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-daft-devils,The Daft Devils,Ken Drummond,Ken Drummond,bass,bass,626
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-daft-devils,The Daft Devils,Marc Kimmel,Marc Kimmel,vocals,vocals,627
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-daft-devils,The Daft Devils,Shawn Payette,Shawn Payette,drums,drums,628
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-infantry,The Infantry,Simon Germain,Simon Germain,guitar,guitar,631
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-infantry,The Infantry,Elia Nissan,Elia Nissan,guitar,guitar,632
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-infantry,The Infantry,Pascal Spiegler,Pascal Spiegler,guitar,guitar,633
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-infantry,The Infantry,Mario Giulione,Mario Giulione,vocals,vocals,634
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-infantry,The Infantry,Patrick Houston,Patrick Houston,drums,drums,635
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-muted,The Muted,Isabella Byrne,Isabella Byrne,guitar/bass,guitar; bass,638
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-muted,The Muted,Anita Haurie,Anita Haurie,guitar/bass,guitar; bass,639
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-muted,The Muted,Yasmine Kamen,Yasmine Kamen,guitar/bass,guitar; bass,640
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-muted,The Muted,Erica Patulli,Erica Patulli,guitar,guitar,641
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-muted,The Muted,Shane Brown,Shane Brown,vocals,vocals,642
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-muted,The Muted,Matthew Patulli,Matthew Patulli,drums,drums,643
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-country-cousins,The Country Cousins,Tim Dougherty,Tim Dougherty,guitar,guitar,646
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-country-cousins,The Country Cousins,Wayne Hemsworth,Wayne Hemsworth,guitar,guitar,647
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-country-cousins,The Country Cousins,Sean Madden,Sean Madden,bass,bass,648
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-country-cousins,The Country Cousins,Donna Malin,Donna Malin,vocals,vocals,649
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-the-country-cousins,The Country Cousins,Jay Bradley,Jay Bradley,drums,drums,650
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-above-the-clinic,Above The Clinic,Allan Gilmour,Allan Gilmour,guitar,guitar,653
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-above-the-clinic,Above The Clinic,Elyse Gasco,Elyse Gasco,bass,bass,654
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-above-the-clinic,Above The Clinic,Marc Kimmel,Marc Kimmel,vocals,vocals,655
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-above-the-clinic,Above The Clinic,Jay Blumenstein,Jay Blumenstein,drums,drums,656
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-heavy-boots-of-lead,Heavy Boots Of Lead,Jordan Edelstein,Jordan Edelstein,guitar,guitar,659
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-heavy-boots-of-lead,Heavy Boots Of Lead,Michael Fitch,Michael Fitch,guitar,guitar,660
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-heavy-boots-of-lead,Heavy Boots Of Lead,Sean Roberts,Sean Roberts,guitar,guitar,661
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-heavy-boots-of-lead,Heavy Boots Of Lead,Jesse Lund,Jesse Lund,vocals,vocals,662
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-heavy-boots-of-lead,Heavy Boots Of Lead,Jay Bradley,Jay Bradley,drums,drums,663
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-broken-rules,Broken Rules,AJ Davies-Jordan,AJ Davies-Jordan,guitar,guitar,666
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-broken-rules,Broken Rules,Dylan Langburt,Dylan Langburt,guitar/bass,guitar; bass,667
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-broken-rules,Broken Rules,Michael Fitch,Michael Fitch,guitar/bass,guitar; bass,668
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-broken-rules,Broken Rules,Mario Giulione,Mario Giulione,vocals,vocals,669
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-broken-rules,Broken Rules,Danny Labrecque,Danny Labrecque,bass,bass,670
+lftg-11-2012,LFTG 11 (2012),lftg-11-2012-broken-rules,Broken Rules,David Greenstein,David Greenstein,drums,drums,671
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-moderately-trained-monkeys,Moderately Trained Monkeys,Marcel Aulls,Marcel Aulls,guitar,guitar,686
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-moderately-trained-monkeys,Moderately Trained Monkeys,Allan Gilmour,Allan Gilmour,guitar,guitar,687
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-moderately-trained-monkeys,Moderately Trained Monkeys,Eric Black,Eric Black,bass,bass,688
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-moderately-trained-monkeys,Moderately Trained Monkeys,Marc Kimmel,Marc Kimmel,vocals,vocals,689
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-moderately-trained-monkeys,Moderately Trained Monkeys,Jay Blumenstein,Jay Blumenstein,drums,drums,690
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-six-strings,Six Strings,David Greenstein,David Greenstein,guitar,guitar,693
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-six-strings,Six Strings,Ryan Ortizo,Ryan Ortizo,guitar,guitar,694
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-six-strings,Six Strings,Michael Sayegh,Michael Sayegh,guitar,guitar,695
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-six-strings,Six Strings,Dominic Supino,Dominic Supino,guitar,guitar,696
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-six-strings,Six Strings,Mario Giulione,Mario Giulione,vocals,vocals,697
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-six-strings,Six Strings,Charley Hausknost,Charley Hausknost,backing vocals,backing vocals,698
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-silver-city,Silver City,Jordan Edelstein,Jordan Edelstein,guitar,guitar,701
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-silver-city,Silver City,Simon Germain,Simon Germain,guitar,guitar,702
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-silver-city,Silver City,Sean Roberts,Sean Roberts,guitar,guitar,703
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-silver-city,Silver City,Marc Kimmel,Marc Kimmel,vocals,vocals,704
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-silver-city,Silver City,Jay Blumenstein,Jay Blumenstein,drums,drums,705
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-the-daft-devils,The Daft Devils,Robert Drummond,Robert Drummond,guitar,guitar,708
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-the-daft-devils,The Daft Devils,Wayne Hemsworth,Wayne Hemsworth,guitar,guitar,709
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-the-daft-devils,The Daft Devils,Ken Drummond,Ken Drummond,bass,bass,710
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-the-daft-devils,The Daft Devils,Patrick Houston,Patrick Houston,drums,drums,711
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-the-switch,The Switch,Anita Haurie,Anita Haurie,guitar/bass,guitar; bass,714
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-the-switch,The Switch,Yasmine Kamen,Yasmine Kamen,guitar/bass,guitar; bass,715
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-the-switch,The Switch,Elia Nissan,Elia Nissan,guitar,guitar,716
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-the-switch,The Switch,Erica Patulli,Erica Patulli,guitar,guitar,717
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-the-switch,The Switch,Matthew Patulli,Matthew Patulli,drums,drums,718
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-detour,Detour,Anita Haurie,Anita Haurie,guitar/bass,guitar; bass,721
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-detour,Detour,Yasmine Kamen,Yasmine Kamen,guitar/bass,guitar; bass,722
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-detour,Detour,Pascal Spiegler,Pascal Spiegler,guitar,guitar,723
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-detour,Detour,Benjamin Wexler,Benjamin Wexler,guitar,guitar,724
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-detour,Detour,David Greenstein,David Greenstein,drums,drums,725
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-the-intruders,The Intruders,Matt Aisen,Matt Aisen,guitar,guitar,728
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-the-intruders,The Intruders,Dylan Langburt,Dylan Langburt,guitar/bass,guitar; bass,729
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-the-intruders,The Intruders,Michael Langburt,Michael Langburt,guitar/bass,guitar; bass,730
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-the-intruders,The Intruders,John Bowie,John Bowie,bass,bass,731
+lftg-12-2013,LFTG 12 (2013),lftg-12-2013-the-intruders,The Intruders,Doug Stein,Doug Stein,drums,drums,732
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-dr-x,Dr. X,Marcel Aulls,Marcel Aulls,guitar,guitar,746
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-dr-x,Dr. X,Matt Aisen,Matt Aisen,guitar,guitar,747
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-dr-x,Dr. X,Jake Kimmel,Jake Kimmel,guitar,guitar,748
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-dr-x,Dr. X,Jon Bowie,Jon Bowie,bass,bass,749
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-dr-x,Dr. X,Marc Kimmel,Marc Kimmel,vocals,vocals,750
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-dr-x,Dr. X,Jay Blumenstein,Jay Blumenstein,drums,drums,751
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-lost-souls,Lost Souls,Anita Haurie,Anita Haurie,guitar/bass,guitar; bass,754
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-lost-souls,Lost Souls,Yasmine Kamen,Yasmine Kamen,guitar/bass,guitar; bass,755
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-lost-souls,Lost Souls,Elia Nissan,Elia Nissan,guitar,guitar,756
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-lost-souls,Lost Souls,Erica Patulli,Erica Patulli,guitar,guitar,757
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-lost-souls,Lost Souls,Matthew Patulli,Matthew Patulli,drums,drums,758
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-night-of-terror,Night Of Terror,Jordan Edelstein,Jordan Edelstein,guitar,guitar,761
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-night-of-terror,Night Of Terror,Simon Germain,Simon Germain,guitar,guitar,762
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-night-of-terror,Night Of Terror,Sean Roberts,Sean Roberts,guitar,guitar,763
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-night-of-terror,Night Of Terror,Jon Bowie,Jon Bowie,bass,bass,764
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-night-of-terror,Night Of Terror,Mario Giulione,Mario Giulione,vocals,vocals,765
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-night-of-terror,Night Of Terror,Jay Blumenstein,Jay Blumenstein,drums,drums,766
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-castle-sinister,Castle Sinister,Ryan Ortizo,Ryan Ortizo,guitar,guitar,769
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-castle-sinister,Castle Sinister,David Greenstein,David Greenstein,guitar,guitar,770
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-castle-sinister,Castle Sinister,Dominic Supino,Dominic Supino,guitar,guitar,771
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-castle-sinister,Castle Sinister,Eric Black,Eric Black,bass,bass,772
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-castle-sinister,Castle Sinister,Mario Giulione,Mario Giulione,vocals,vocals,773
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-castle-sinister,Castle Sinister,Nadim Hashim,Nadim Hashim,drums,drums,774
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-dark-eyes-of-london,Dark Eyes Of London,Matt Aisen,Matt Aisen,guitar,guitar,777
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-dark-eyes-of-london,Dark Eyes Of London,Dylan Langburt,Dylan Langburt,guitar,guitar,778
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-dark-eyes-of-london,Dark Eyes Of London,Zander Smith,Zander Smith,bass,bass,779
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-dark-eyes-of-london,Dark Eyes Of London,Mario Giulione,Mario Giulione,vocals,vocals,780
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-dark-eyes-of-london,Dark Eyes Of London,Doug Stein,Doug Stein,drums,drums,781
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-the-phantoms,The Phantoms,Finn Brennan-Krip,Finn Brennan-Krip,guitar,guitar,784
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-the-phantoms,The Phantoms,Benjamin Cere,Benjamin Cere,guitar,guitar,785
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-the-phantoms,The Phantoms,Henri Mitnick,Henri Mitnick,guitar,guitar,786
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-the-phantoms,The Phantoms,Benjamin Wexler,Benjamin Wexler,guitar,guitar,787
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-the-phantoms,The Phantoms,Lev Wexler,Lev Wexler,guitar,guitar,788
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-the-phantoms,The Phantoms,Jeremy Wexler,Jeremy Wexler,sound effects,sound effects,789
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-the-phantoms,The Phantoms,Malcolm Findlay,Malcolm Findlay,sax,sax,790
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-the-phantoms,The Phantoms,Howard Mitnick,Howard Mitnick,bass,bass,791
+lftg-13-2014,LFTG 13 (2014),lftg-13-2014-the-phantoms,The Phantoms,David Greenstein,David Greenstein,drums,drums,792
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-marie-kametani,Marie Kametani,Guitar/vocals,Guitar/vocals,,,806
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-street-spirit,Street Spirit,Marcel Aulls,Marcel Aulls,guitar,guitar,811
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-street-spirit,Street Spirit,Michael Fitch,Michael Fitch,guitar,guitar,812
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-street-spirit,Street Spirit,John Bowie,John Bowie,bass,bass,813
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-street-spirit,Street Spirit,Mario Giulione,Mario Giulione,vocals,vocals,814
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-street-spirit,Street Spirit,Fred Bouchard,Fred Bouchard,drums,drums,815
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-the-unknown,The Unknown,Anna Chuprun,Anna Chuprun,guitar,guitar,818
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-the-unknown,The Unknown,Finn Brennan-Krip,Finn Brennan-Krip,guitar,guitar,819
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-the-unknown,The Unknown,Benjamin Cere,Benjamin Cere,guitar,guitar,820
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-the-unknown,The Unknown,Elia Nissan,Elia Nissan,bass,bass,821
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-the-unknown,The Unknown,Clara Stewart,Clara Stewart,drums,drums,822
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-tracy-island,Tracy Island,Anita Haurie,Anita Haurie,guitar/bass,guitar; bass,825
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-tracy-island,Tracy Island,Yasmine Kamen,Yasmine Kamen,guitar/bass,guitar; bass,826
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-tracy-island,Tracy Island,Elia Nissan,Elia Nissan,guitar/bass,guitar; bass,827
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-tracy-island,Tracy Island,Mario Giulione,Mario Giulione,vocals,vocals,828
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-tracy-island,Tracy Island,Matthew Patulli,Matthew Patulli,drums,drums,829
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-piltdown-man,Piltdown Man,Benjamin Wexler,Benjamin Wexler,guitar,guitar,832
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-piltdown-man,Piltdown Man,Lev Wexler,Lev Wexler,guitar,guitar,833
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-piltdown-man,Piltdown Man,Howard Mitnick,Howard Mitnick,bass,bass,834
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-piltdown-man,Piltdown Man,Henri Mitnick,Henri Mitnick,drums,drums,835
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-armageddon-flame,Armageddon Flame,Jake Kimmel,Jake Kimmel,guitar,guitar,838
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-armageddon-flame,Armageddon Flame,Ethan Kimmel,Ethan Kimmel,guitar/vocals,guitar; vocals,839
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-armageddon-flame,Armageddon Flame,Marc Kimmel,Marc Kimmel,vocals,vocals,840
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-armageddon-flame,Armageddon Flame,John Bowie,John Bowie,bass,bass,841
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-armageddon-flame,Armageddon Flame,Jay Blumenstein,Jay Blumenstein,drums,drums,842
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-carmen-and-the-devil,Carmen and The Devil,Angus Carmichael,Angus Carmichael,guitar,guitar,845
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-carmen-and-the-devil,Carmen and The Devil,Irwin Edelstein,Irwin Edelstein,guitar,guitar,846
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-carmen-and-the-devil,Carmen and The Devil,Rachelle Lapointe,Rachelle Lapointe,guitar,guitar,847
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-carmen-and-the-devil,Carmen and The Devil,Sean Roberts,Sean Roberts,guitar,guitar,848
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-carmen-and-the-devil,Carmen and The Devil,Eileen O'Reilly,Eileen O'Reilly,guitar/vocals,guitar; vocals,849
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-carmen-and-the-devil,Carmen and The Devil,Annie Delaney,Annie Delaney,guitar/vocals,guitar; vocals,850
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-carmen-and-the-devil,Carmen and The Devil,Linda Jewers,Linda Jewers,vocals,vocals,851
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-carmen-and-the-devil,Carmen and The Devil,Colette Blain,Colette Blain,bass,bass,852
+lftg-14-2015,LFTG 14 (2015),lftg-14-2015-carmen-and-the-devil,Carmen and The Devil,Charles Phelan,Charles Phelan,drums,drums,853
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-one-way-ticket,One Way Ticket,Finn Brennan-Krip,Finn Brennan-Krip,,,866
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-one-way-ticket,One Way Ticket,Anna Chuprun,Anna Chuprun,,,867
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-one-way-ticket,One Way Ticket,Mario Giulione,Mario Giulione,,,868
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-one-way-ticket,One Way Ticket,Elia Nissan,Elia Nissan,,,869
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-one-way-ticket,One Way Ticket,Clara Stewart,Clara Stewart,,,870
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-man-on-the-scene,Man On The Scene,Benjamin Cere,Benjamin Cere,,,873
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-man-on-the-scene,Man On The Scene,Conrad Corning,Conrad Corning,,,874
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-man-on-the-scene,Man On The Scene,Jordan Edelstein,Jordan Edelstein,,,875
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-man-on-the-scene,Man On The Scene,Marc Kimmel,Marc Kimmel,,,876
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-man-on-the-scene,Man On The Scene,Jonah Levy,Jonah Levy,,,877
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-man-on-the-scene,Man On The Scene,Bruce Pascal,Bruce Pascal,,,878
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-man-on-the-scene,Man On The Scene,Matthew Patulli,Matthew Patulli,,,879
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-ripped-at-the-seams,Ripped At The Seams,John Bowie,John Bowie,,,882
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-ripped-at-the-seams,Ripped At The Seams,Ethan Kimmel,Ethan Kimmel,,,883
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-ripped-at-the-seams,Ripped At The Seams,Dylan Kimmel,Dylan Kimmel,,,884
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-ripped-at-the-seams,Ripped At The Seams,Jake Kimmel,Jake Kimmel,,,885
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-ripped-at-the-seams,Ripped At The Seams,Marc Kimmel,Marc Kimmel,,,886
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-ripped-at-the-seams,Ripped At The Seams,Doug Stein,Doug Stein,,,887
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-ripped-at-the-seams,Ripped At The Seams,Jasmine Stein Webb,Jasmine Stein Webb,,,888
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-the-haiverers,The Haiverers,Angus Carmichael,Angus Carmichael,,,891
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-the-haiverers,The Haiverers,Irwin Edelstein,Irwin Edelstein,,,892
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-the-haiverers,The Haiverers,Dan Laxer,Dan Laxer,,,893
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-the-haiverers,The Haiverers,Bruce Pascal,Bruce Pascal,,,894
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-the-haiverers,The Haiverers,Charles Phelan,Charles Phelan,,,895
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-the-haiverers,The Haiverers,Dominic Supino,Dominic Supino,,,896
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-the-daft-devils,The Daft Devils,Jay Blumenstein,Jay Blumenstein,,,899
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-the-daft-devils,The Daft Devils,Ken Drummond,Ken Drummond,,,900
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-the-daft-devils,The Daft Devils,Rob Drummond,Rob Drummond,,,901
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-the-daft-devils,The Daft Devils,Michael Fitch,Michael Fitch,,,902
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-the-daft-devils,The Daft Devils,Mario Giulione,Mario Giulione,,,903
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-the-zoot-suits,The Zoot Suits,Matt Aisen,Matt Aisen,,,906
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-the-zoot-suits,The Zoot Suits,Bruce Pascal,Bruce Pascal,,,907
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-the-zoot-suits,The Zoot Suits,Matthew Patulli,Matthew Patulli,,,908
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-throwing-knives,Throwing Knives,Matt Aisen,Matt Aisen,,,911
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-throwing-knives,Throwing Knives,Marcel Aulls,Marcel Aulls,,,912
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-throwing-knives,Throwing Knives,Jay Blumenstein,Jay Blumenstein,,,913
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-throwing-knives,Throwing Knives,John Bowie,John Bowie,,,914
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-throwing-knives,Throwing Knives,Marc Kimmel,Marc Kimmel,,,915
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-throwing-knives,Throwing Knives,Jasmine Stein Webb,Jasmine Stein Webb,,,916
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-supersonic-twist,Supersonic Twist,Aiden Chabot,Aiden Chabot,,,919
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-supersonic-twist,Supersonic Twist,Charlie Etinson,Charlie Etinson,,,920
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-supersonic-twist,Supersonic Twist,Henri Mitnick,Henri Mitnick,,,921
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-supersonic-twist,Supersonic Twist,Howard Mitnick,Howard Mitnick,,,922
+lftg-15-2016,LFTG 15 (2016),lftg-15-2016-supersonic-twist,Supersonic Twist,Lev Wexler,Lev Wexler,,,923
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-warped-verdict-main-band-debut,Warped Verdict (Main Band - Debut),Sophie Doyle,Sophie Doyle,lead vocals,lead vocals,957
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-warped-verdict-main-band-debut,Warped Verdict (Main Band - Debut),William Gaucher,William Gaucher,drums,drums,958
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-warped-verdict-main-band-debut,Warped Verdict (Main Band - Debut),Laura Holden,Laura Holden,bass,bass,959
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-warped-verdict-main-band-debut,Warped Verdict (Main Band - Debut),Chloe Soldevila,Chloe Soldevila,keyboards and back up vocals,keyboards and back up vocals,960
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-warped-verdict-main-band-debut,Warped Verdict (Main Band - Debut),Ryan Luxenberg,Ryan Luxenberg,guitar,guitar,961
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-warped-verdict-main-band-debut,Warped Verdict (Main Band - Debut),Jordy Soldevila,Jordy Soldevila,guitar,guitar,962
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-warped-verdict-main-band-debut,Warped Verdict (Main Band - Debut),Bad Reputation,Bad Reputation,Joan Jett and the Blackhearts,Joan Jett and the Blackhearts,965
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-warped-verdict-main-band-debut,Warped Verdict (Main Band - Debut),Be Yourself,Be Yourself,Audioslave,Audioslave,966
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-warped-verdict-main-band-debut,Warped Verdict (Main Band - Debut),Change,Change,Warped Verdict (original),Warped Verdict (original),967
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-warped-verdict-main-band-debut,Warped Verdict (Main Band - Debut),"Sugar, We're Going Down","Sugar, We're Going Down",Fall Out Boy,Fall Out Boy,968
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-the-soundwiches-guest-band,The Soundwiches (Guest Band),Sam Gyetvay,Sam Gyetvay,Guitar/Vocals,Guitar; Vocals,971
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-the-soundwiches-guest-band,The Soundwiches (Guest Band),Joj Helfer,Joj Helfer,Drums/Vocals,Drums; Vocals,972
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-the-soundwiches-guest-band,The Soundwiches (Guest Band),Zander Smith,Zander Smith,Bass,Bass,973
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-the-soundwiches-guest-band,The Soundwiches (Guest Band),Sam Trowbridge,Sam Trowbridge,Trumpet,Trumpet,974
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-the-soundwiches-guest-band,The Soundwiches (Guest Band),Nic Perry,Nic Perry,Trombone,Trombone,975
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-papa-so-mean-guest-band,Papa So Mean (Guest Band),Rick Collins,Rick Collins,lead vocals,lead vocals,978
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-papa-so-mean-guest-band,Papa So Mean (Guest Band),Joanne Hannan,Joanne Hannan,vocals,vocals,979
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-papa-so-mean-guest-band,Papa So Mean (Guest Band),Drew Krip,Drew Krip,Bass,Bass,980
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-papa-so-mean-guest-band,Papa So Mean (Guest Band),Peter Schmidt,Peter Schmidt,Drums,Drums,981
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-papa-so-mean-guest-band,Papa So Mean (Guest Band),Bill Kreklewetz,Bill Kreklewetz,guitar,guitar,982
+lftg-1-2006,LFTG 1 (2006),lftg-1-2006-papa-so-mean-guest-band,Papa So Mean (Guest Band),Wayne Hemsworth,Wayne Hemsworth,guitar,guitar,983
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-street-spirit,Street Spirit,John Bowie,John Bowie,,,1000
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-street-spirit,Street Spirit,Michael Fitch,Michael Fitch,,,1001
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-street-spirit,Street Spirit,Mario Giulione,Mario Giulione,,,1002
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-street-spirit,Street Spirit,Doug Stein,Doug Stein,,,1003
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-street-spirit,Street Spirit,Jonathan Stein,Jonathan Stein,,,1004
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-listen-bud,Listen Bud,Charlie Etinson,Charlie Etinson,,,1007
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-listen-bud,Listen Bud,Henri Mitnick,Henri Mitnick,,,1008
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-listen-bud,Listen Bud,Howard Mitnick,Howard Mitnick,,,1009
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-listen-bud,Listen Bud,Leo Mitnick,Leo Mitnick,,,1010
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-listen-bud,Listen Bud,Sasha Sebe,Sasha Sebe,,,1011
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-listen-bud,Listen Bud,James Stein Webb,James Stein Webb,,,1012
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-listen-bud,Listen Bud,Lev Wexler,Lev Wexler,,,1013
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-psychic-spies,Psychic Spies,Sean Ali-Tse,Sean Ali-Tse,,,1016
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-psychic-spies,Psychic Spies,Benjamin Cere,Benjamin Cere,,,1017
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-psychic-spies,Psychic Spies,Sami Sugiarta,Sami Sugiarta,,,1018
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-psychic-spies,Psychic Spies,Mario Giulione,Mario Giulione,,,1019
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-psychic-spies,Psychic Spies,James-Matthew Patulli,James-Matthew Patulli,,,1020
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-psychic-spies,Psychic Spies,Richard Said,Richard Said,,,1021
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-psychic-spies,Psychic Spies,Jay Blumenstein,Jay Blumenstein,,,1022
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-psychic-spies,Psychic Spies,Ken Drummond,Ken Drummond,,,1023
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-psychic-spies,Psychic Spies,Rob Drummond,Rob Drummond,,,1024
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-psychic-spies,Psychic Spies,Angus Carmichael,Angus Carmichael,,,1025
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-psychic-spies,Psychic Spies,Irwin Edelstein,Irwin Edelstein,,,1026
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-psychic-spies,Psychic Spies,Dan Laxer,Dan Laxer,,,1027
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-psychic-spies,Psychic Spies,Dominic Supino,Dominic Supino,,,1028
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-the-lawn-mowers,The Lawn Mowers,Matt Aisen,Matt Aisen,,,1031
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-the-lawn-mowers,The Lawn Mowers,Marcel Aulls,Marcel Aulls,,,1032
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-the-lawn-mowers,The Lawn Mowers,Benjamin Cere,Benjamin Cere,,,1033
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-the-lawn-mowers,The Lawn Mowers,John Bowie,John Bowie,,,1034
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-the-lawn-mowers,The Lawn Mowers,Marc Kimmel,Marc Kimmel,,,1035
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-the-lawn-mowers,The Lawn Mowers,Ethan Kimmel,Ethan Kimmel,,,1036
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-the-lawn-mowers,The Lawn Mowers,Doug Stein,Doug Stein,,,1037
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-1000-stars,1000 Stars,Aimee Ben-Jacob,Aimee Ben-Jacob,,,1040
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-1000-stars,1000 Stars,Finn Brennan-Krip,Finn Brennan-Krip,,,1041
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-1000-stars,1000 Stars,Anna Chuprun,Anna Chuprun,,,1042
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-1000-stars,1000 Stars,Mario Giulione,Mario Giulione,,,1043
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-1000-stars,1000 Stars,Elia Nissan,Elia Nissan,,,1044
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-1000-stars,1000 Stars,Charles Phelan,Charles Phelan,,,1045
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-1000-stars,1000 Stars,Jasmine Stein Webb,Jasmine Stein Webb,,,1046
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-thm,THM,Zografos Caramanos,Zografos Caramanos,,,1049
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-thm,THM,Jonathan Stein,Jonathan Stein,,,1050
+lftg-17-2018,LFTG 17 (2018),lftg-17-2018-thm,THM,Le Huan Tran,Le Huan Tran,,,1051
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-charm-city,Charm City,John Bowie,John Bowie,,,1066
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-charm-city,Charm City,Evan Bowie,Evan Bowie,,,1067
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-charm-city,Charm City,Leo Mitnick,Leo Mitnick,,,1068
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-charm-city,Charm City,Griffin Patterson,Griffin Patterson,,,1069
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-charm-city,Charm City,Sasha Sebe,Sasha Sebe,,,1070
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-charm-city,Charm City,James Stein Webb,James Stein Webb,,,1071
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-charm-city,Charm City,Emma Tabah,Emma Tabah,,,1072
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-yellow-tigers,Yellow Tigers,Sean Ali-Tse,Sean Ali-Tse,,,1075
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-yellow-tigers,Yellow Tigers,Benjamin Cere,Benjamin Cere,,,1076
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-yellow-tigers,Yellow Tigers,Sami Sugiarta,Sami Sugiarta,,,1077
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-yellow-tigers,Yellow Tigers,Mario Giulione,Mario Giulione,,,1078
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-yellow-tigers,Yellow Tigers,Jay Blumenstein,Jay Blumenstein,,,1079
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-mission-bell,The Mission Bell,Jay Blumenstein,Jay Blumenstein,,,1082
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-mission-bell,The Mission Bell,Aimee Ben-Jacob,Aimee Ben-Jacob,,,1083
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-mission-bell,The Mission Bell,Finn Brennan-Krip,Finn Brennan-Krip,,,1084
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-mission-bell,The Mission Bell,Anna Chuprun,Anna Chuprun,,,1085
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-mission-bell,The Mission Bell,Elia Nissan,Elia Nissan,,,1086
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-mission-bell,The Mission Bell,Jasmine Stein Webb,Jasmine Stein Webb,,,1087
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-mission-bell,The Mission Bell,Leon Uchoa,Leon Uchoa,,,1088
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-echo-and-sway,Echo And Sway,Ken Drummond,Ken Drummond,,,1091
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-echo-and-sway,Echo And Sway,Rob Drummond,Rob Drummond,,,1092
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-echo-and-sway,Echo And Sway,Irwin Edelstein,Irwin Edelstein,,,1093
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-echo-and-sway,Echo And Sway,Marc Kimmel,Marc Kimmel,,,1094
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-echo-and-sway,Echo And Sway,Charles Phelan,Charles Phelan,,,1095
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-echo-and-sway,Echo And Sway,Dominic Supino,Dominic Supino,,,1096
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-clashroom-jam-session-course,The Clashroom (Jam Session Course),Benjamin Bisaillon,Benjamin Bisaillon,,,1099
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-clashroom-jam-session-course,The Clashroom (Jam Session Course),Sam Bock,Sam Bock,,,1100
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-clashroom-jam-session-course,The Clashroom (Jam Session Course),Benjamin Cere,Benjamin Cere,,,1101
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-clashroom-jam-session-course,The Clashroom (Jam Session Course),Carly Leblanc,Carly Leblanc,,,1102
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-clashroom-jam-session-course,The Clashroom (Jam Session Course),Henri Mitnick,Henri Mitnick,,,1103
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-clashroom-jam-session-course,The Clashroom (Jam Session Course),Benjamin Mak,Benjamin Mak,,,1104
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-clashroom-jam-session-course,The Clashroom (Jam Session Course),Day-Glo Jones,Day-Glo Jones,,,1105
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-clashroom-jam-session-course,The Clashroom (Jam Session Course),Marcel Aulls,Marcel Aulls,,,1106
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-clashroom-jam-session-course,The Clashroom (Jam Session Course),John Bowie,John Bowie,,,1107
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-clashroom-jam-session-course,The Clashroom (Jam Session Course),Marc Kimmel,Marc Kimmel,,,1108
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-clashroom-jam-session-course,The Clashroom (Jam Session Course),Ethan Kimmel,Ethan Kimmel,,,1109
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-clashroom-jam-session-course,The Clashroom (Jam Session Course),Steven Lubotta,Steven Lubotta,,,1110
+lftg-16-2017,LFTG 16 (2017),lftg-16-2017-the-clashroom-jam-session-course,The Clashroom (Jam Session Course),Doug Stein,Doug Stein,,,1111
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-toaster-ghosts,Toaster Ghosts,Aimee Ben-Jacob,Aimee Ben-Jacob,,,1126
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-toaster-ghosts,Toaster Ghosts,Zayd Al-Fakhuri,Zayd Al-Fakhuri,,,1127
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-toaster-ghosts,Toaster Ghosts,Ethan Mackay,Ethan Mackay,,,1128
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-toaster-ghosts,Toaster Ghosts,Elijah Morson,Elijah Morson,,,1129
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-toaster-ghosts,Toaster Ghosts,Eva Nolan,Eva Nolan,,,1130
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-the-dicky-birds,The Dicky Birds,Ben Hopper,Ben Hopper,,,1133
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-the-dicky-birds,The Dicky Birds,Thomas Hopper,Thomas Hopper,,,1134
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-the-dicky-birds,The Dicky Birds,Fergus Nolan,Fergus Nolan,,,1135
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-the-dicky-birds,The Dicky Birds,Jake Philippas,Jake Philippas,,,1136
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-the-secret-chords,The Secret Chords,Matt Aisen,Matt Aisen,,,1139
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-the-secret-chords,The Secret Chords,Mason Pascal,Mason Pascal,,,1140
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-the-secret-chords,The Secret Chords,James-Matthew Patulli,James-Matthew Patulli,,,1141
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-confused-and-bruised,Confused And Bruised,Lara Atabek,Lara Atabek,,,1144
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-confused-and-bruised,Confused And Bruised,John Bowie,John Bowie,,,1145
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-confused-and-bruised,Confused And Bruised,Evan Bowie,Evan Bowie,,,1146
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-confused-and-bruised,Confused And Bruised,Jay Blumenstein,Jay Blumenstein,,,1147
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-confused-and-bruised,Confused And Bruised,Sarah Daumas,Sarah Daumas,,,1148
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-confused-and-bruised,Confused And Bruised,Mario Giulione,Mario Giulione,,,1149
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-confused-and-bruised,Confused And Bruised,Sasha Sebe,Sasha Sebe,,,1150
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-confused-and-bruised,Confused And Bruised,Emma Tabah,Emma Tabah,,,1151
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-fast-machine,Fast Machine,Sean Ali-Tse,Sean Ali-Tse,,,1154
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-fast-machine,Fast Machine,Benjamin Cere,Benjamin Cere,,,1155
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-fast-machine,Fast Machine,Peter Cervini,Peter Cervini,,,1156
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-fast-machine,Fast Machine,Joaquin De Pol,Joaquin De Pol,,,1157
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-fast-machine,Fast Machine,Michael O'hanley,Michael O'hanley,,,1158
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-fast-machine,Fast Machine,James Simpkin,James Simpkin,,,1159
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-pretty-liar,Pretty Liar,Jay Blumenstein,Jay Blumenstein,,,1162
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-pretty-liar,Pretty Liar,Finn Brennan-Krip,Finn Brennan-Krip,,,1163
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-pretty-liar,Pretty Liar,Carly Leblanc,Carly Leblanc,,,1164
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-pretty-liar,Pretty Liar,Elia Nissan,Elia Nissan,,,1165
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-pretty-liar,Pretty Liar,Jasmine Stein Webb,Jasmine Stein Webb,,,1166
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-crossfire-hurricane,Crossfire Hurricane,Ken Drummond,Ken Drummond,,,1169
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-crossfire-hurricane,Crossfire Hurricane,Rob Drummond,Rob Drummond,,,1170
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-crossfire-hurricane,Crossfire Hurricane,Irwin Edelstein,Irwin Edelstein,,,1171
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-crossfire-hurricane,Crossfire Hurricane,Dan Laxer,Dan Laxer,,,1172
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-crossfire-hurricane,Crossfire Hurricane,Flavio Nahas,Flavio Nahas,,,1173
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-crossfire-hurricane,Crossfire Hurricane,Dominic Supino,Dominic Supino,,,1174
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-the-clashroom,The Clashroom,Benjamin Bisaillon,Benjamin Bisaillon,,,1177
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-the-clashroom,The Clashroom,Benjamin Cere,Benjamin Cere,,,1178
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-the-clashroom,The Clashroom,Jackson Hawes,Jackson Hawes,,,1179
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-the-clashroom,The Clashroom,Carly Leblanc,Carly Leblanc,,,1180
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-the-clashroom,The Clashroom,Henri Mitnick,Henri Mitnick,,,1181
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-the-clashroom,The Clashroom,Benjamin Mak,Benjamin Mak,,,1182
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-sticky-trigger,Sticky Trigger,Marcel Aulls,Marcel Aulls,,,1185
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-sticky-trigger,Sticky Trigger,John Bowie,John Bowie,,,1186
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-sticky-trigger,Sticky Trigger,Marc Kimmel,Marc Kimmel,,,1187
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-sticky-trigger,Sticky Trigger,Ethan Kimmel,Ethan Kimmel,,,1188
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-sticky-trigger,Sticky Trigger,Steven Lubotta,Steven Lubotta,,,1189
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-sticky-trigger,Sticky Trigger,Doug Stein,Doug Stein,,,1190
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-sticky-trigger,Sticky Trigger,Shows XX–XXIII (2022–2025) — *4 shows remaining*,Shows XX–XXIII (2022–2025) — *4 shows remaining*,,,1195
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-sticky-trigger,Sticky Trigger,**Total Shows:** 23 (2006–2025),**Total Shows:** 23 (2006–2025),,,1201
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-sticky-trigger,Sticky Trigger,**Currently Extracted:** 23 shows (I–XXIII) ✅ COMPLETE,**Currently Extracted:** 23 shows (I–XXIII) ✅ COMPLETE,,,1202
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-sticky-trigger,Sticky Trigger,**Progress:** 100% of archive extracted ✅✅✅,**Progress:** 100% of archive extracted ✅✅✅,,,1203
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-sticky-trigger,Sticky Trigger,**Bands Catalogued:** 185+ bands + 3 solo performers,**Bands Catalogued:** 185+ bands + 3 solo performers,,,1204
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-sticky-trigger,Sticky Trigger,**Participants Catalogued:** 1000+,**Participants Catalogued:** 1000+,,,1205
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-sticky-trigger,Sticky Trigger,**Gap Years:** None! Archive complete through 2025,**Gap Years:** None! Archive complete through 2025,,,1206
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-sticky-trigger,Sticky Trigger,**Next Show:** LFTG 24 (June 2026),**Next Show:** LFTG 24 (June 2026),,,1207
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-sticky-trigger,Sticky Trigger,"**Recurring Performers:** Mario Giulione, Jay Blumenstein, John Bowie, Marcel Aulls, Marc Kimmel, Carly Leblanc, Crossfire Hurricane, Sour Apples, The Wrong (mentors/collaborators + recurring bands)","**Recurring Performers:** Mario Giulione, Jay Blumenstein, John Bowie, Marcel Aulls, Marc Kimmel, Carly Leblanc, Crossfire Hurricane, Sour Apples, The Wrong (mentors/collaborators + recurring bands)",,,1208
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-sticky-trigger,Sticky Trigger,"**Jon's Note (from program):** ""At the past fourteen shows, eighty-eight bands have performed, made up of eighty-one of my guitar and bass students.""","**Jon's Note (from program):** ""At the past fourteen shows, eighty-eight bands have performed, made up of eighty-one of my guitar and bass students.""",,,1214
+lftg-18-2019,LFTG 18 (2019),lftg-18-2019-sticky-trigger,Sticky Trigger,"**Family Performers:** Jasmine Stein Webb (daughter), Doug Stein (brother), Ethan/Dylan/Jake Kimmel, Ken/Rob Drummond","**Family Performers:** Jasmine Stein Webb (daughter), Doug Stein (brother), Ethan/Dylan/Jake Kimmel, Ken/Rob Drummond",,,1216
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-magnetic-field,Magnetic Field,Thomas Drouin,Thomas Drouin,Guitar,Guitar,1234
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-magnetic-field,Magnetic Field,Mario Giulione,Mario Giulione,Vocals,Vocals,1235
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-magnetic-field,Magnetic Field,Henry Rebellati-Mitnick,Henry Rebellati-Mitnick,Drums,Drums,1236
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-magnetic-field,Magnetic Field,Zach Rehany,Zach Rehany,Guitar,Guitar,1237
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-magnetic-field,Magnetic Field,Jonah Smith,Jonah Smith,Guitar,Guitar,1238
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-red-hot-chicken-nuggets,Red Hot Chicken Nuggets,Max Basu,Max Basu,Vocals/Bass,Vocals; Bass,1242
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-red-hot-chicken-nuggets,Red Hot Chicken Nuggets,Louis Guay-Robitaille,Louis Guay-Robitaille,Guitar,Guitar,1243
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-red-hot-chicken-nuggets,Red Hot Chicken Nuggets,Alex Guay-Robitaille,Alex Guay-Robitaille,Drums,Drums,1244
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-easy-riders,The Easy Riders,Stephen David Bracewell McLauchlin,Stephen David Bracewell McLauchlin,Guitar,Guitar,1248
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-easy-riders,The Easy Riders,Harrison Magder,Harrison Magder,Guitar,Guitar,1249
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-easy-riders,The Easy Riders,Leo Wolfson,Leo Wolfson,Guitar,Guitar,1250
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-easy-riders,The Easy Riders,Jay Blumenstein,Jay Blumenstein,Drums,Drums,1251
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-messy-pearls,The Messy Pearls,Sammy Rupert,Sammy Rupert,Guitar,Guitar,1255
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-messy-pearls,The Messy Pearls,Milo Klein,Milo Klein,Guitar,Guitar,1256
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-messy-pearls,The Messy Pearls,Luc Bisaillon,Luc Bisaillon,Drums,Drums,1257
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-overworld-solo,Overworld,Thomas Rolian,Thomas Rolian,Guitar,Guitar,1261
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-sarcastics-featuring-wolf-and-sohn,The Sarcastics (featuring Wolf and Sohn),Sarah Elman,Sarah Elman,Vocals/Guitar/Piano,Vocals; Guitar; Piano,1265
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-sarcastics-featuring-wolf-and-sohn,The Sarcastics (featuring Wolf and Sohn),Mike Elman,Mike Elman,Guitar,Guitar,1266
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-sarcastics-featuring-wolf-and-sohn,The Sarcastics (featuring Wolf and Sohn),Aubrey Rosenhek,Aubrey Rosenhek,Bass,Bass,1267
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-sarcastics-featuring-wolf-and-sohn,The Sarcastics (featuring Wolf and Sohn),Cass Rosenhek,Cass Rosenhek,Drums,Drums,1268
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-sarcastics-featuring-wolf-and-sohn,The Sarcastics (featuring Wolf and Sohn),Dan Wolfensohn,Dan Wolfensohn,Keyboards,Keyboards,1269
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-sarcastics-featuring-wolf-and-sohn,The Sarcastics (featuring Wolf and Sohn),Jonas Wolfensohn,Jonas Wolfensohn,Keyboards,Keyboards,1270
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-freight-train,Freight Train,Oscar Johnson,Oscar Johnson,Vocals/Guitar,Vocals; Guitar,1274
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-freight-train,Freight Train,Lev King,Lev King,Vocals/Bass,Vocals; Bass,1275
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-freight-train,Freight Train,Raphael Marques,Raphael Marques,Guitar,Guitar,1276
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-freight-train,Freight Train,Leo Rupert,Leo Rupert,Vocals/Bass,Vocals; Bass,1277
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-freight-train,Freight Train,James Stein Webb,James Stein Webb,Drums,Drums,1278
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-broken-picks,The Broken Picks,Sam Arkush,Sam Arkush,Guitar/Vocals,Guitar; Vocals,1282
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-broken-picks,The Broken Picks,Oscar Aziz,Oscar Aziz,Drums,Drums,1283
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-broken-picks,The Broken Picks,Noah Peled-Fostokjian,Noah Peled-Fostokjian,Guitar/Vocals,Guitar; Vocals,1284
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-broken-picks,The Broken Picks,Vizma Ingelevics,Vizma Ingelevics,Bass/Vocals,Bass; Vocals,1285
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-broken-picks,The Broken Picks,Chiara Klein,Chiara Klein,Guitar/Vocals,Guitar; Vocals,1286
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-broken-picks,The Broken Picks,Jude Rosenhek,Jude Rosenhek,Keyboards/Bass,Keyboards; Bass,1287
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-april-sky,April Sky,Dora-Lynn Marga,Dora-Lynn Marga,Vocals/Guitar,Vocals; Guitar,1291
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-april-sky,April Sky,Jasmine Stein Webb,Jasmine Stein Webb,Vocals,Vocals,1292
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-april-sky,April Sky,Renato Robert,Renato Robert,Bass,Bass,1293
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-april-sky,April Sky,Benet Fraderabrunet,Benet Fraderabrunet,Keyboards/Drums,Keyboards; Drums,1294
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-april-sky,April Sky,Fred Brackett,Fred Brackett,Drums,Drums,1295
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-sour-apples,Sour Apples,Daphné Cliche,Daphné Cliche,Vocals,Vocals,1299
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-sour-apples,Sour Apples,Djuna Johnson,Djuna Johnson,Guitar/Bass,Guitar; Bass,1300
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-sour-apples,Sour Apples,Kit Styles,Kit Styles,Drums,Drums,1301
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-wrong,The Wrong,Jacob Dahan,Jacob Dahan,Guitar,Guitar,1305
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-wrong,The Wrong,Rapha Davidson,Rapha Davidson,Vocals,Vocals,1306
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-wrong,The Wrong,William McIntyre,William McIntyre,Guitar,Guitar,1307
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-wrong,The Wrong,Liam Beers,Liam Beers,Bass,Bass,1308
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-wrong,The Wrong,Gabriel Mah,Gabriel Mah,Keyboards,Keyboards,1309
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-wrong,The Wrong,Oliver Cook,Oliver Cook,Drums,Drums,1310
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-sonic-shower,Sonic Shower,Lara Atabeck,Lara Atabeck,Vocals,Vocals,1314
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-sonic-shower,Sonic Shower,Mehmet Babahan,Mehmet Babahan,Drums,Drums,1315
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-sonic-shower,Sonic Shower,Ariel Blum,Ariel Blum,Guitar/Bass,Guitar; Bass,1316
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-sonic-shower,Sonic Shower,Ilian Stamm Emond,Ilian Stamm Emond,Guitar,Guitar,1317
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-sonic-shower,Sonic Shower,Tomek Shiller,Tomek Shiller,Guitar,Guitar,1318
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-sonic-shower,Sonic Shower,Jorge Flores,Jorge Flores,Bass/Vocals,Bass; Vocals,1319
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-crossfire-hurricane,Crossfire Hurricane,Dan Laxer,Dan Laxer,Vocals/Harp,Vocals; Harp,1323
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-crossfire-hurricane,Crossfire Hurricane,Sonya Shiller,Sonya Shiller,Guitar,Guitar,1324
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-crossfire-hurricane,Crossfire Hurricane,Irwin Edelstein,Irwin Edelstein,Guitar,Guitar,1325
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-crossfire-hurricane,Crossfire Hurricane,Dominic Supino,Dominic Supino,Guitar,Guitar,1326
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-crossfire-hurricane,Crossfire Hurricane,George Koutsaris,George Koutsaris,Keyboards,Keyboards,1327
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-crossfire-hurricane,Crossfire Hurricane,Sylvie Choquette,Sylvie Choquette,Bass,Bass,1328
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-crossfire-hurricane,Crossfire Hurricane,Jay Blumenstein,Jay Blumenstein,Drums,Drums,1329
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-crossfire-hurricane,Crossfire Hurricane,Juan Alvina,Juan Alvina,Drums,Drums,1330
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-cruelest-line,The Cruelest Line,Ronen Devashi,Ronen Devashi,Guitar,Guitar,1334
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-cruelest-line,The Cruelest Line,Mario Giulione,Mario Giulione,Vocals,Vocals,1335
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-cruelest-line,The Cruelest Line,Jerry Golick,Jerry Golick,Bass,Bass,1336
+lftg-22-2024,LFTG 22 (2024),lftg-22-2024-the-cruelest-line,The Cruelest Line,Henry Rebellati-Mitnick,Henry Rebellati-Mitnick,Drums,Drums,1337
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-sarah-elman,Sarah Elman,Sarah Elman,Sarah Elman,Vocals/Guitar,Vocals; Guitar,1359
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-subliminal-ducks,Subliminal Ducks,Milo Klein,Milo Klein,Guitar,Guitar,1365
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-subliminal-ducks,Subliminal Ducks,Thomas Rolian,Thomas Rolian,Guitar,Guitar,1366
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-subliminal-ducks,Subliminal Ducks,Thomas Skovsbo,Thomas Skovsbo,Guitar,Guitar,1367
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-subliminal-ducks,Subliminal Ducks,Zachary Botbol,Zachary Botbol,Drums,Drums,1368
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-marcil-playground,Marcil Playground,Stephen David Bracewell McLauchlin,Stephen David Bracewell McLauchlin,Guitar,Guitar,1372
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-marcil-playground,Marcil Playground,Theo McLauchlin,Theo McLauchlin,Guitar,Guitar,1373
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-marcil-playground,Marcil Playground,Kit Styles,Kit Styles,Drums,Drums,1374
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-red-hot-chicken-nuggets,Red Hot Chicken Nuggets,Louis Guay-Robitaille,Louis Guay-Robitaille,Guitar,Guitar,1378
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-red-hot-chicken-nuggets,Red Hot Chicken Nuggets,Alex Guay-Robitaille,Alex Guay-Robitaille,Drums,Drums,1379
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-red-hot-chicken-nuggets,Red Hot Chicken Nuggets,Adam Olivera,Adam Olivera,Vocals/Keyboards,Vocals; Keyboards,1380
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-red-hot-chicken-nuggets,Red Hot Chicken Nuggets,Juan Olivera,Juan Olivera,Bass,Bass,1381
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-the-only-one,The Only One,Harrison Magder,Harrison Magder,Guitar,Guitar,1385
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-the-only-one,The Only One,Leo Wolfson,Leo Wolfson,Guitar,Guitar,1386
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-the-only-one,The Only One,Tomek Shiller,Tomek Shiller,Drums,Drums,1387
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-the-only-one,The Only One,Carly Leblanc,Carly Leblanc,Vocals,Vocals,1388
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-mirror-madness,Mirror Madness,Rachelle Dusablon-Ouellet,Rachelle Dusablon-Ouellet,Guitar,Guitar,1392
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-mirror-madness,Mirror Madness,Zoe Provost,Zoe Provost,Guitar,Guitar,1393
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-mirror-madness,Mirror Madness,Patrick Steverman,Patrick Steverman,Guitar,Guitar,1394
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-mirror-madness,Mirror Madness,Jorge Flores,Jorge Flores,Vocals,Vocals,1395
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-mirror-madness,Mirror Madness,Jeffrey Rezzara,Jeffrey Rezzara,Drums,Drums,1396
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-off-track,Off Track,James Dahan,James Dahan,Drums,Drums,1400
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-off-track,Off Track,Vizma Ingelevics,Vizma Ingelevics,Guitar/Vocals,Guitar; Vocals,1401
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-off-track,Off Track,Raymond Lee,Raymond Lee,Harmonica,Harmonica,1402
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-off-track,Off Track,Noah Peled-Fostokjian,Noah Peled-Fostokjian,Guitar/Vocals,Guitar; Vocals,1403
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-off-track,Off Track,Theo Schneider,Theo Schneider,Keyboards/Bass,Keyboards; Bass,1404
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-sour-apples,Sour Apples,Daphné Cliche,Daphné Cliche,Vocals,Vocals,1408
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-sour-apples,Sour Apples,Djuna Johnson,Djuna Johnson,Guitar/Bass,Guitar; Bass,1409
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-sour-apples,Sour Apples,Kit Styles,Kit Styles,Drums,Drums,1410
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-mechanically-separated,Mechanically Separated,Oscar Johnson,Oscar Johnson,Vocals/Guitar,Vocals; Guitar,1414
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-mechanically-separated,Mechanically Separated,Lev King,Lev King,Vocals/Bass,Vocals; Bass,1415
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-mechanically-separated,Mechanically Separated,Raphael Marques,Raphael Marques,Guitar,Guitar,1416
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-mechanically-separated,Mechanically Separated,Mila Putterman,Mila Putterman,Keyboards/Vocals,Keyboards; Vocals,1417
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-mechanically-separated,Mechanically Separated,Leo Rupert,Leo Rupert,Vocals/Bass,Vocals; Bass,1418
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-mechanically-separated,Mechanically Separated,Chiara Saulgrain,Chiara Saulgrain,Guitar,Guitar,1419
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-mechanically-separated,Mechanically Separated,James Stein Webb,James Stein Webb,Drums,Drums,1420
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-the-wrong,The Wrong,Rapha Davidson,Rapha Davidson,Vocals,Vocals,1424
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-the-wrong,The Wrong,William McIntyre,William McIntyre,Guitar,Guitar,1425
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-the-wrong,The Wrong,Liam Beers,Liam Beers,Bass,Bass,1426
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-the-wrong,The Wrong,Ethan Botner,Ethan Botner,Drums,Drums,1427
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-modern-movement,Modern Movement,Ronen Devashi,Ronen Devashi,Guitar,Guitar,1431
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-modern-movement,Modern Movement,Jordan Bouganim,Jordan Bouganim,Guitar,Guitar,1432
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-modern-movement,Modern Movement,Mario Giulione,Mario Giulione,Vocals,Vocals,1433
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-modern-movement,Modern Movement,Jay Blumenstein,Jay Blumenstein,Drums,Drums,1434
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-crossfire-hurricane,Crossfire Hurricane,Dan Laxer,Dan Laxer,Vocals/Harmonica,Vocals; Harmonica,1438
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-crossfire-hurricane,Crossfire Hurricane,Sonya Shiller,Sonya Shiller,Guitar,Guitar,1439
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-crossfire-hurricane,Crossfire Hurricane,Irwin Edelstein,Irwin Edelstein,Guitar,Guitar,1440
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-crossfire-hurricane,Crossfire Hurricane,Dominic Supino,Dominic Supino,Guitar,Guitar,1441
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-crossfire-hurricane,Crossfire Hurricane,Jorge Flores,Jorge Flores,Bass,Bass,1442
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-crossfire-hurricane,Crossfire Hurricane,Jay Blumenstein,Jay Blumenstein,Drums,Drums,1443
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-the-lost-art,The Lost Art,Marcel Aulls,Marcel Aulls,Guitar,Guitar,1447
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-the-lost-art,The Lost Art,Mario Giulione,Mario Giulione,Vocals,Vocals,1448
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-the-lost-art,The Lost Art,John Bowie,John Bowie,Bass,Bass,1449
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-the-lost-art,The Lost Art,Henry Rebellati-Mitnick,Henry Rebellati-Mitnick,Drums,Drums,1450
+lftg-23-2025,LFTG 23 (2025),lftg-23-2025-the-lost-art,The Lost Art,Assistants: Benet and Jeffrey (volunteers),Assistants: Benet and Jeffrey (volunteers),,,1455
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-only-lights,The Only Lights,"Ukulele: Edwin Roberts, Ella Wolput, Sammy Rupert, Benjamin Groth, Nora Plante","Ukulele: Edwin Roberts, Ella Wolput, Sammy Rupert, Benjamin Groth, Nora Plante",,,1476
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-only-lights,The Only Lights,Vocals: Jasmine Stein Webb,Vocals: Jasmine Stein Webb,,,1477
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-only-lights,The Only Lights,Bass: Mike Fitch,Bass: Mike Fitch,,,1478
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-only-lights,The Only Lights,Drums: James-Matthew Patulli,Drums: James-Matthew Patulli,,,1479
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-wrong,The Wrong,Vocals/Bass: Quincy Philippas,Vocals/Bass: Quincy Philippas,,,1482
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-wrong,The Wrong,Vocals/Piano: Gabriel Mah,Vocals/Piano: Gabriel Mah,,,1483
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-wrong,The Wrong,Guitar: Rapha Davidson,Guitar: Rapha Davidson,,,1484
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-wrong,The Wrong,Drums: Oliver Cook,Drums: Oliver Cook,,,1485
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-spaces,The Spaces,"Guitar: Eli Gutfeld, Sarah Elman, Lilah Rupert, Emma Durham, Evan Bowie, Sarah Daumas, Harrison Magder","Guitar: Eli Gutfeld, Sarah Elman, Lilah Rupert, Emma Durham, Evan Bowie, Sarah Daumas, Harrison Magder",,,1488
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-spaces,The Spaces,Vocals: Mario Giulione,Vocals: Mario Giulione,,,1489
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-spaces,The Spaces,Bass: John Bowie,Bass: John Bowie,,,1490
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-spaces,The Spaces,Drums: James-Matthew Patulli,Drums: James-Matthew Patulli,,,1491
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-dicky-birds,The Dicky Birds,"Vocals/Guitar: Fergus Nolan, Ben Hopper","Vocals/Guitar: Fergus Nolan, Ben Hopper",,,1494
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-dicky-birds,The Dicky Birds,Keyboard: Mike Fitch,Keyboard: Mike Fitch,,,1495
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-dicky-birds,The Dicky Birds,Bass: Quincy Philippas,Bass: Quincy Philippas,,,1496
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-dicky-birds,The Dicky Birds,Drums: Thomas Hopper,Drums: Thomas Hopper,,,1497
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-soul-slide,Soul Slide,"Guitar: Cedric Rolland, Jonah Smith, Ethan Kimmel","Guitar: Cedric Rolland, Jonah Smith, Ethan Kimmel",,,1500
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-soul-slide,Soul Slide,Vocals: Marc Kimmel,Vocals: Marc Kimmel,,,1501
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-soul-slide,Soul Slide,Keyboard: Bruce Pascal,Keyboard: Bruce Pascal,,,1502
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-soul-slide,Soul Slide,Drums: Doug Stein,Drums: Doug Stein,,,1503
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-sonic-shower,Sonic Shower,"Guitar: Aidan Rosenberg, Noah Zigby","Guitar: Aidan Rosenberg, Noah Zigby",,,1506
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-sonic-shower,Sonic Shower,Vocals: Lara Atabek,Vocals: Lara Atabek,,,1507
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-sonic-shower,Sonic Shower,Keyboard: Ceren Unal,Keyboard: Ceren Unal,,,1508
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-sonic-shower,Sonic Shower,Bass: Carly Leblanc,Bass: Carly Leblanc,,,1509
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-sonic-shower,Sonic Shower,"Drums: Mehmet Babahan, Geordie Buch-Frohlich","Drums: Mehmet Babahan, Geordie Buch-Frohlich",,,1510
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-hard-luck,Hard Luck,"Guitar: Marcel Aulls, Rob Drummond, Noam Alon","Guitar: Marcel Aulls, Rob Drummond, Noam Alon",,,1513
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-hard-luck,Hard Luck,Vocals: Mario Giulione,Vocals: Mario Giulione,,,1514
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-hard-luck,Hard Luck,Bass: John Bowie,Bass: John Bowie,,,1515
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-hard-luck,Hard Luck,Drums: Doug Stein,Drums: Doug Stein,,,1516
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-toaster-ghost,Toaster Ghost,"Guitar: Ethan Mackay, Zayd Al-Fakhuri","Guitar: Ethan Mackay, Zayd Al-Fakhuri",,,1519
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-toaster-ghost,Toaster Ghost,Keyboard: Lukas,Keyboard: Lukas,,,1520
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-toaster-ghost,Toaster Ghost,Vocals: Eva Nolan,Vocals: Eva Nolan,,,1521
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-toaster-ghost,Toaster Ghost,Drums: Sonia Miquelon,Drums: Sonia Miquelon,,,1522
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-crossfire-hurricane,Crossfire Hurricane,"Guitar: Irwin Edelstein, Dominic Supino","Guitar: Irwin Edelstein, Dominic Supino",,,1525
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-crossfire-hurricane,Crossfire Hurricane,Vocals: Dan Laxer,Vocals: Dan Laxer,,,1526
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-crossfire-hurricane,Crossfire Hurricane,Bass: Mike Fitch,Bass: Mike Fitch,,,1527
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-crossfire-hurricane,Crossfire Hurricane,Drums: James-Matthew Patulli,Drums: James-Matthew Patulli,,,1528
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-clashroom,The Clashroom,"Guitar: Benjamin Cere, Benjamin Mak","Guitar: Benjamin Cere, Benjamin Mak",,,1531
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-clashroom,The Clashroom,Vocals: Carly Leblanc,Vocals: Carly Leblanc,,,1532
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-clashroom,The Clashroom,Bass: Benjamin Bisaillon,Bass: Benjamin Bisaillon,,,1533
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-clashroom,The Clashroom,Drums: Henry Mitnick,Drums: Henry Mitnick,,,1534
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-5-15,The 5:15,"Guitar: Steve Lubotta, Matt Aisen","Guitar: Steve Lubotta, Matt Aisen",,,1537
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-5-15,The 5:15,Vocals: Marc Kimmel,Vocals: Marc Kimmel,,,1538
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-5-15,The 5:15,Bass: John Bowie,Bass: John Bowie,,,1539
+lftg-19-2020,LFTG 19 (2020),lftg-19-2020-the-5-15,The 5:15,Drums: Doug Stein,Drums: Doug Stein,,,1540
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-lean-greens-money,The Lean Greens - Money,"Guitar: Aidan, Sarah, Jonah","Guitar: Aidan, Sarah, Jonah",,,1552
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-lean-greens-money,The Lean Greens - Money,Bass: Mike,Bass: Mike,,,1553
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-lean-greens-money,The Lean Greens - Money,Drums: James,Drums: James,,,1554
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-lean-greens-money,The Lean Greens - Money,Vocals: Mario,Vocals: Mario,,,1555
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-dicky-birds-tear-in-my-heart,The Dicky Birds - Tear In My Heart,"Guitar: Ben, Fergus","Guitar: Ben, Fergus",,,1558
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-dicky-birds-tear-in-my-heart,The Dicky Birds - Tear In My Heart,Bass: Quincy,Bass: Quincy,,,1559
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-dicky-birds-tear-in-my-heart,The Dicky Birds - Tear In My Heart,Drums: Thomas,Drums: Thomas,,,1560
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-dicky-birds-tear-in-my-heart,The Dicky Birds - Tear In My Heart,"Vocals: Ben, Fergus","Vocals: Ben, Fergus",,,1561
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-wrong-heathens,The Wrong - Heathens,Guitar: Rapha,Guitar: Rapha,,,1564
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-wrong-heathens,The Wrong - Heathens,Piano: Gabriel,Piano: Gabriel,,,1565
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-wrong-heathens,The Wrong - Heathens,Bass: Mike,Bass: Mike,,,1566
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-wrong-heathens,The Wrong - Heathens,Drums: Oliver,Drums: Oliver,,,1567
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-wrong-heathens,The Wrong - Heathens,Vocals: Rapha,Vocals: Rapha,,,1568
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-southend-suits-picture-book,The Southend Suits - Picture Book,"Guitar: Sarah, Lilah, Ariel","Guitar: Sarah, Lilah, Ariel",,,1571
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-southend-suits-picture-book,The Southend Suits - Picture Book,Bass: John,Bass: John,,,1572
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-southend-suits-picture-book,The Southend Suits - Picture Book,Drums: James,Drums: James,,,1573
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-southend-suits-picture-book,The Southend Suits - Picture Book,Vocals: Mario,Vocals: Mario,,,1574
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-clashroom-like-the-way-i-do,The Clashroom - Like The Way I Do,"Guitar: Ben Cere, Ben Mak","Guitar: Ben Cere, Ben Mak",,,1577
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-clashroom-like-the-way-i-do,The Clashroom - Like The Way I Do,Bass: Ben Bisaillon,Bass: Ben Bisaillon,,,1578
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-clashroom-like-the-way-i-do,The Clashroom - Like The Way I Do,Drums: Henry,Drums: Henry,,,1579
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-clashroom-like-the-way-i-do,The Clashroom - Like The Way I Do,Vocals: Carly,Vocals: Carly,,,1580
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-bluebirds-somewhere-over-the-rainbow,The Bluebirds - Somewhere Over The Rainbow,"Ukulele: Nora, Ella, Edwin, Mia","Ukulele: Nora, Ella, Edwin, Mia",,,1583
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-bluebirds-somewhere-over-the-rainbow,The Bluebirds - Somewhere Over The Rainbow,Bass: Bruce,Bass: Bruce,,,1584
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-bluebirds-somewhere-over-the-rainbow,The Bluebirds - Somewhere Over The Rainbow,Vocals: Jasmine,Vocals: Jasmine,,,1585
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-sonic-shower-from-eden,Sonic Shower - From Eden,"Guitars: Lara, Mike","Guitars: Lara, Mike",,,1588
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-sonic-shower-from-eden,Sonic Shower - From Eden,Piano: Ceren,Piano: Ceren,,,1589
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-sonic-shower-from-eden,Sonic Shower - From Eden,Bass: Mike,Bass: Mike,,,1590
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-sonic-shower-from-eden,Sonic Shower - From Eden,Drums: Mehmet,Drums: Mehmet,,,1591
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-sonic-shower-from-eden,Sonic Shower - From Eden,Vocals: Lara,Vocals: Lara,,,1592
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-ninth-wave-wipeout,The Ninth Wave - Wipeout,"Guitars: Eli, Evan, Oscar, Ariel, Lilah","Guitars: Eli, Evan, Oscar, Ariel, Lilah",,,1595
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-ninth-wave-wipeout,The Ninth Wave - Wipeout,Bass: John,Bass: John,,,1596
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-ninth-wave-wipeout,The Ninth Wave - Wipeout,Drums: James,Drums: James,,,1597
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-rock-n-nolans-addicted-to-you,Rock n Nolans - Addicted To You,"Guitars: Brian, Fergus","Guitars: Brian, Fergus",,,1600
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-rock-n-nolans-addicted-to-you,Rock n Nolans - Addicted To You,Bass: Eva,Bass: Eva,,,1601
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-rock-n-nolans-addicted-to-you,Rock n Nolans - Addicted To You,Vocals: Eva,Vocals: Eva,,,1602
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-soft-speak-cigarette-daydreams,Soft Speak - Cigarette Daydreams,"Guitars: Eva, Djuna, Ariel, Lilah","Guitars: Eva, Djuna, Ariel, Lilah",,,1605
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-soft-speak-cigarette-daydreams,Soft Speak - Cigarette Daydreams,Piano/Keys: Mike,Piano/Keys: Mike,,,1606
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-soft-speak-cigarette-daydreams,Soft Speak - Cigarette Daydreams,Drums: Fred,Drums: Fred,,,1607
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-soft-speak-cigarette-daydreams,Soft Speak - Cigarette Daydreams,Vocals: Jasmine,Vocals: Jasmine,,,1608
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-street-spirit-paranoid-android,Street Spirit - Paranoid Android,"Guitars: Jon, Mike","Guitars: Jon, Mike",,,1611
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-street-spirit-paranoid-android,Street Spirit - Paranoid Android,"Keys: Will, Bruce","Keys: Will, Bruce",,,1612
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-street-spirit-paranoid-android,Street Spirit - Paranoid Android,Bass: John,Bass: John,,,1613
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-street-spirit-paranoid-android,Street Spirit - Paranoid Android,Drums: Doug,Drums: Doug,,,1614
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-street-spirit-paranoid-android,Street Spirit - Paranoid Android,Vocals: Mario,Vocals: Mario,,,1615
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-5-15-make-it-wit-chu,5:15 - Make It Wit Chu,"Guitars: Matt, Steve","Guitars: Matt, Steve",,,1618
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-5-15-make-it-wit-chu,5:15 - Make It Wit Chu,Bass: John,Bass: John,,,1619
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-5-15-make-it-wit-chu,5:15 - Make It Wit Chu,Drums: Doug,Drums: Doug,,,1620
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-5-15-make-it-wit-chu,5:15 - Make It Wit Chu,Vocals: Marc,Vocals: Marc,,,1621
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-lightning-congregation,The Lightning - Congregation,"Guitars: Marcel, Noam, Jonah, Aidan, Ethan, Steve","Guitars: Marcel, Noam, Jonah, Aidan, Ethan, Steve",,,1624
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-lightning-congregation,The Lightning - Congregation,Bass: John,Bass: John,,,1625
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-lightning-congregation,The Lightning - Congregation,Drums: Doug,Drums: Doug,,,1626
+lftg-19-5-2021,LFTG 19.5 (2021),lftg-19-5-2021-the-lightning-congregation,The Lightning - Congregation,Vocals: Marc,Vocals: Marc,,,1627
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-t-c,T & C,Thomas Rolian,Thomas Rolian,Ukulele,Ukulele,1640
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-t-c,T & C,Campbell Rolian,Campbell Rolian,Guitar,Guitar,1641
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-white-orchid,White Orchid,Carly Leblanc,Carly Leblanc,Vocals,Vocals,1645
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-white-orchid,White Orchid,Louis Guay-Robitaille,Louis Guay-Robitaille,Guitar,Guitar,1646
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-white-orchid,White Orchid,Alex Guay-Robitaille,Alex Guay-Robitaille,Drums,Drums,1647
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-white-orchid,White Orchid,Mike Fitch,Mike Fitch,Bass,Bass,1648
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-another-heart,Another Heart,Ceci Nolan,Ceci Nolan,Vocals,Vocals,1652
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-another-heart,Another Heart,Harrison Magder,Harrison Magder,Guitar,Guitar,1653
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-another-heart,Another Heart,Sammy Rupert,Sammy Rupert,Guitar,Guitar,1654
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-another-heart,Another Heart,Edwin Roberts,Edwin Roberts,Guitar,Guitar,1655
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-another-heart,Another Heart,Carly Leblanc,Carly Leblanc,Bass,Bass,1656
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-another-heart,Another Heart,Tomek Shiller,Tomek Shiller,Drums,Drums,1657
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-the-mighty,The Mighty,Carly Leblanc,Carly Leblanc,Vocals,Vocals,1661
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-the-mighty,The Mighty,William McIntyre,William McIntyre,Guitar,Guitar,1662
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-the-mighty,The Mighty,Oscar Johnson,Oscar Johnson,Guitar,Guitar,1663
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-the-mighty,The Mighty,Bruce Pascal,Bruce Pascal,Bass,Bass,1664
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-the-mighty,The Mighty,Henry Mitnick,Henry Mitnick,Drums,Drums,1665
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-the-wrong,The Wrong,Gabriel Mah,Gabriel Mah,Vocals/Keyboards,Vocals; Keyboards,1669
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-the-wrong,The Wrong,Rapha Davidson,Rapha Davidson,Guitar,Guitar,1670
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-the-wrong,The Wrong,Pietro Loraschi,Pietro Loraschi,Guitar,Guitar,1671
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-the-wrong,The Wrong,Liam Beers,Liam Beers,Bass,Bass,1672
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-the-wrong,The Wrong,Oscar Aziz,Oscar Aziz,Drums,Drums,1673
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-the-wrong,The Wrong,Oliver Cook,Oliver Cook,Drums,Drums,1674
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-the-daydreamers,The Daydreamers,Sarah Elman,Sarah Elman,Vocals/Guitar,Vocals; Guitar,1678
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-the-daydreamers,The Daydreamers,Ariel Blum,Ariel Blum,Guitar,Guitar,1679
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-the-daydreamers,The Daydreamers,Djuna Johnson,Djuna Johnson,Guitar,Guitar,1680
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-the-daydreamers,The Daydreamers,Lilah Rupert,Lilah Rupert,Guitar,Guitar,1681
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-the-daydreamers,The Daydreamers,Mike Elman,Mike Elman,Bass,Bass,1682
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-sonic-shower,Sonic Shower,Lara Atabeck,Lara Atabeck,Vocals,Vocals,1686
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-sonic-shower,Sonic Shower,Ilan Stamm Emond,Ilan Stamm Emond,Guitar,Guitar,1687
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-sonic-shower,Sonic Shower,Jacob Dahan,Jacob Dahan,Guitar,Guitar,1688
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-sonic-shower,Sonic Shower,Carly Leblanc,Carly Leblanc,Bass,Bass,1689
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-sonic-shower,Sonic Shower,Tomek Shiller,Tomek Shiller,Drums,Drums,1690
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-sonic-shower,Sonic Shower,Mehmet Babahan,Mehmet Babahan,Drums,Drums,1691
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-strictly-rhythm,Strictly Rhythm,Marc Kimmel,Marc Kimmel,Vocals,Vocals,1695
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-strictly-rhythm,Strictly Rhythm,Ethan Kimmel,Ethan Kimmel,Guitar,Guitar,1696
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-strictly-rhythm,Strictly Rhythm,Jonah Smith,Jonah Smith,Guitar,Guitar,1697
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-strictly-rhythm,Strictly Rhythm,Dylan Cavell,Dylan Cavell,Guitar,Guitar,1698
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-strictly-rhythm,Strictly Rhythm,Bruce Pascal,Bruce Pascal,Bass,Bass,1699
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-strictly-rhythm,Strictly Rhythm,Henry Mitnick,Henry Mitnick,Drums,Drums,1700
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-sour-apples,Sour Apples,Jasmine Stein Webb,Jasmine Stein Webb,Vocals,Vocals,1704
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-sour-apples,Sour Apples,Molly Deutch,Molly Deutch,Guitar,Guitar,1705
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-sour-apples,Sour Apples,Aidan Rosenberg,Aidan Rosenberg,Guitar,Guitar,1706
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-sour-apples,Sour Apples,Miranda MacDonald,Miranda MacDonald,Bass,Bass,1707
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-sour-apples,Sour Apples,Sonia Miquelon,Sonia Miquelon,Drums,Drums,1708
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-crossfire-hurricane,Crossfire Hurricane,Dan Laxer,Dan Laxer,Vocals/Harp,Vocals; Harp,1712
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-crossfire-hurricane,Crossfire Hurricane,Sonya Shiller,Sonya Shiller,Guitar,Guitar,1713
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-crossfire-hurricane,Crossfire Hurricane,Irwin Edelstein,Irwin Edelstein,Guitar,Guitar,1714
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-crossfire-hurricane,Crossfire Hurricane,Dominic Supino,Dominic Supino,Guitar,Guitar,1715
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-crossfire-hurricane,Crossfire Hurricane,Drazen Sedlar,Drazen Sedlar,Bass,Bass,1716
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-crossfire-hurricane,Crossfire Hurricane,Anton Samoylenko,Anton Samoylenko,Drums,Drums,1717
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-electric-word,Electric Word,Marc Kimmel,Marc Kimmel,Vocals,Vocals,1721
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-electric-word,Electric Word,Marcel Aulls,Marcel Aulls,Guitar,Guitar,1722
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-electric-word,Electric Word,Rob Drummond,Rob Drummond,Guitar,Guitar,1723
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-electric-word,Electric Word,Jerry Golick,Jerry Golick,Bass,Bass,1724
+lftg-20-2022,LFTG 20 (2022),lftg-20-2022-electric-word,Electric Word,Doug Stein,Doug Stein,Drums,Drums,1725
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-red-hot-chicken-nuggets,Red Hot Chicken Nuggets,Max Basu,Max Basu,Vocals,Vocals,1739
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-red-hot-chicken-nuggets,Red Hot Chicken Nuggets,Louis Guay-Robitaille,Louis Guay-Robitaille,Guitar,Guitar,1740
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-red-hot-chicken-nuggets,Red Hot Chicken Nuggets,Alex Guay-Robitaille,Alex Guay-Robitaille,Drums,Drums,1741
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-red-hot-chicken-nuggets,Red Hot Chicken Nuggets,Hank Guay,Hank Guay,Bass,Bass,1742
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-authentic-strings,The Authentic Strings,Harrison Magder,Harrison Magder,Guitar,Guitar,1746
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-authentic-strings,The Authentic Strings,Sammy Rupert,Sammy Rupert,Guitar,Guitar,1747
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-authentic-strings,The Authentic Strings,Leo Wolfson,Leo Wolfson,Guitar,Guitar,1748
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-authentic-strings,The Authentic Strings,Edwin Roberts,Edwin Roberts,Guitar,Guitar,1749
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-authentic-strings,The Authentic Strings,Bloodshot Bill,Bloodshot Bill,Drums,Drums,1750
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-broken-picks,The Broken Picks,Noah Peled-Fostokjian,Noah Peled-Fostokjian,Vocals/Guitar,Vocals; Guitar,1754
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-broken-picks,The Broken Picks,Vizma Ingelevics,Vizma Ingelevics,Vocals/Guitar,Vocals; Guitar,1755
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-broken-picks,The Broken Picks,Lucy Vincent,Lucy Vincent,Guitar,Guitar,1756
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-broken-picks,The Broken Picks,Jorge Torrealba,Jorge Torrealba,Bass,Bass,1757
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-broken-picks,The Broken Picks,Oscar Aziz,Oscar Aziz,Drums,Drums,1758
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-sarcastics,The Sarcastics,Sarah Elman,Sarah Elman,Vocals/Guitar/Piano,Vocals; Guitar; Piano,1762
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-sarcastics,The Sarcastics,Mike Elman,Mike Elman,Guitar,Guitar,1763
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-sarcastics,The Sarcastics,Aubrey Rosenhek,Aubrey Rosenhek,Bass,Bass,1764
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-sarcastics,The Sarcastics,Cass Rosenhek,Cass Rosenhek,Drums,Drums,1765
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-freight-train,Freight Train,Oscar Johnson,Oscar Johnson,Vocals/Guitar,Vocals; Guitar,1769
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-freight-train,Freight Train,Raphael Marques,Raphael Marques,Guitar,Guitar,1770
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-freight-train,Freight Train,Bélen Keuroglian,Bélen Keuroglian,Guitar,Guitar,1771
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-freight-train,Freight Train,Leo Rupert,Leo Rupert,Vocals/Bass,Vocals; Bass,1772
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-freight-train,Freight Train,James Dahan,James Dahan,Drums,Drums,1773
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-freight-train,Freight Train,James Stein Webb,James Stein Webb,Drums,Drums,1774
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-wrong,The Wrong,Rapha Davidson,Rapha Davidson,Vocals,Vocals,1778
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-wrong,The Wrong,Pietro Loraschi,Pietro Loraschi,Guitar,Guitar,1779
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-wrong,The Wrong,Connor Mccuiston,Connor Mccuiston,Guitar,Guitar,1780
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-wrong,The Wrong,Liam Beers,Liam Beers,Bass,Bass,1781
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-wrong,The Wrong,Gabriel Mah,Gabriel Mah,Keyboards/Drums,Keyboards; Drums,1782
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-the-wrong,The Wrong,Oliver Cook,Oliver Cook,Drums,Drums,1783
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-ribbons-of-euphoria,Ribbons Of Euphoria,Mario Giulione,Mario Giulione,Vocals,Vocals,1787
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-ribbons-of-euphoria,Ribbons Of Euphoria,Ethan Kimmel,Ethan Kimmel,Guitar,Guitar,1788
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-ribbons-of-euphoria,Ribbons Of Euphoria,Jonah Smith,Jonah Smith,Guitar,Guitar,1789
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-ribbons-of-euphoria,Ribbons Of Euphoria,Dylan Labrecque,Dylan Labrecque,Guitar,Guitar,1790
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-ribbons-of-euphoria,Ribbons Of Euphoria,Henry Mitnick,Henry Mitnick,Drums,Drums,1791
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-sonic-shower,Sonic Shower,Lara Atabeck,Lara Atabeck,Vocals,Vocals,1795
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-sonic-shower,Sonic Shower,Ilan Stamm Emond,Ilan Stamm Emond,Guitar,Guitar,1796
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-sonic-shower,Sonic Shower,Ariel Blum,Ariel Blum,Guitar,Guitar,1797
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-sonic-shower,Sonic Shower,Jorge Torrealba,Jorge Torrealba,Bass,Bass,1798
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-sonic-shower,Sonic Shower,Tomek Shiller,Tomek Shiller,Drums/Bass,Drums; Bass,1799
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-sonic-shower,Sonic Shower,Mehmet Babahan,Mehmet Babahan,Drums,Drums,1800
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-sour-apples,Sour Apples,Jasmine Stein Webb,Jasmine Stein Webb,Vocals,Vocals,1804
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-sour-apples,Sour Apples,Molly Deutch,Molly Deutch,Guitar,Guitar,1805
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-sour-apples,Sour Apples,Vika Tsukanova,Vika Tsukanova,Guitar,Guitar,1806
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-sour-apples,Sour Apples,Aidan Rosenberg,Aidan Rosenberg,Guitar/Bass,Guitar; Bass,1807
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-sour-apples,Sour Apples,Djuna Johnson,Djuna Johnson,Guitar/Bass,Guitar; Bass,1808
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-sour-apples,Sour Apples,Sonia Miquelon,Sonia Miquelon,Drums,Drums,1809
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-crossfire-hurricane,Crossfire Hurricane,Dan Laxer,Dan Laxer,Vocals/Harp,Vocals; Harp,1813
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-crossfire-hurricane,Crossfire Hurricane,Sonya Shiller,Sonya Shiller,Guitar,Guitar,1814
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-crossfire-hurricane,Crossfire Hurricane,Irwin Edelstein,Irwin Edelstein,Guitar,Guitar,1815
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-crossfire-hurricane,Crossfire Hurricane,Dominic Supino,Dominic Supino,Guitar,Guitar,1816
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-crossfire-hurricane,Crossfire Hurricane,Sylvie Choquette,Sylvie Choquette,Bass,Bass,1817
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-crossfire-hurricane,Crossfire Hurricane,Jay Blumenstein,Jay Blumenstein,Drums,Drums,1818
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-electric-word,Electric Word,Marc Kimmel,Marc Kimmel,Vocals,Vocals,1822
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-electric-word,Electric Word,Marcel Aulls,Marcel Aulls,Guitar,Guitar,1823
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-electric-word,Electric Word,Rob Drummond,Rob Drummond,Guitar,Guitar,1824
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-electric-word,Electric Word,Jerry Golick,Jerry Golick,Bass,Bass,1825
+lftg-21-2023,LFTG 21 (2023),lftg-21-2023-electric-word,Electric Word,Doug Stein,Doug Stein,Drums,Drums,1826

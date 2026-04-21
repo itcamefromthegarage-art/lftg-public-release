@@ -1,0 +1,194 @@
+band_id,show_id,show_label,band_name_raw,band_name_clean,is_solo,source_line
+lftg-1-2006-warped-verdict,lftg-1-2006,LFTG 1 (2006),Warped Verdict,Warped Verdict,no,956
+lftg-1-2006-the-soundwiches,lftg-1-2006,LFTG 1 (2006),The Soundwiches,The Soundwiches,no,970
+lftg-1-2006-papa-so-mean,lftg-1-2006,LFTG 1 (2006),Papa So Mean,Papa So Mean,no,977
+lftg-1-2006-dsi,lftg-1-2006,LFTG 1 (2006),DSI,DSI,no,985
+lftg-2-2006-strikes-twelve,lftg-2-2006,LFTG 2 (2006),Strikes Twelve,Strikes Twelve,no,57
+lftg-2-2006-the-soundwiches,lftg-2-2006,LFTG 2 (2006),The Soundwiches,The Soundwiches,no,71
+lftg-2-2006-velvet-goldmine,lftg-2-2006,LFTG 2 (2006),Velvet Goldmine,Velvet Goldmine,no,78
+lftg-3-2007-the-jay-hawks,lftg-3-2007,LFTG 3 (2007),The Jay Hawks,The Jay Hawks,no,97
+lftg-3-2007-mama-and-papa-so-mean,lftg-3-2007,LFTG 3 (2007),Mama and Papa so Mean,Mama and Papa so Mean,no,103
+lftg-3-2007-root-u,lftg-3-2007,LFTG 3 (2007),√root U,√root U,no,111
+lftg-3-2007-the-daft-devils,lftg-3-2007,LFTG 3 (2007),The Daft Devils,The Daft Devils,no,120
+lftg-3-2007-the-wet-straps,lftg-3-2007,LFTG 3 (2007),The Wet Straps,The Wet Straps,no,128
+lftg-4-2007-root-u,lftg-4-2007,LFTG 4 (2007),√root U,√root U,no,148
+lftg-4-2007-the-j-stein-blues-experience,lftg-4-2007,LFTG 4 (2007),The J. STEIN BLUES EXPERIENCE!,The J. STEIN BLUES EXPERIENCE!,no,157
+lftg-4-2007-the-crumb-snatchers,lftg-4-2007,LFTG 4 (2007),The Crumb Snatchers,The Crumb Snatchers,no,166
+lftg-4-2007-above-the-clinic,lftg-4-2007,LFTG 4 (2007),Above The Clinic,Above The Clinic,no,172
+lftg-4-2007-the-daft-devils,lftg-4-2007,LFTG 4 (2007),The Daft Devils,The Daft Devils,no,179
+lftg-4-2007-the-falling-project,lftg-4-2007,LFTG 4 (2007),The Falling Project,The Falling Project,no,187
+lftg-5-2008-the-j-stein-blues-experience,lftg-5-2008,LFTG 5 (2008),The J. STEIN BLUES EXPERIENCE!,The J. STEIN BLUES EXPERIENCE!,no,215
+lftg-5-2008-cardova,lftg-5-2008,LFTG 5 (2008),Cardova,Cardova,no,215
+lftg-5-2008-breaking-tables,lftg-5-2008,LFTG 5 (2008),Breaking Tables,Breaking Tables,no,224
+lftg-5-2008-the-falling-project,lftg-5-2008,LFTG 5 (2008),The Falling Project,The Falling Project,no,234
+lftg-5-2008-the-daft-devils,lftg-5-2008,LFTG 5 (2008),The Daft Devils,The Daft Devils,no,242
+lftg-6-2008-u2-tribute,lftg-6-2008,LFTG 6 (2008),U2 Tribute,U2 Tribute,no,263
+lftg-6-2008-jack-johnson-tribute,lftg-6-2008,LFTG 6 (2008),Jack Johnson Tribute,Jack Johnson Tribute,no,269
+lftg-6-2008-tribute-to-the-kings,lftg-6-2008,LFTG 6 (2008),Tribute To The Kings,Tribute To The Kings Tribute,no,277
+lftg-6-2008-santana-tribute,lftg-6-2008,LFTG 6 (2008),Santana Tribute,Santana Tribute,no,287
+lftg-6-2008-radiohead-tribute,lftg-6-2008,LFTG 6 (2008),Radiohead Tribute,Radiohead Tribute,no,297
+lftg-6-2008-the-white-stripes-tribute,lftg-6-2008,LFTG 6 (2008),The White Stripes Tribute,The White Stripes Tribute,no,297
+lftg-6-2008-rage-against-the-machine-tribute,lftg-6-2008,LFTG 6 (2008),Rage Against The Machine Tribute,Rage Against The Machine Tribute,no,304
+lftg-7-2009-the-50-s-the-birth-of-rock,lftg-7-2009,LFTG 7 (2009),The 50's - The Birth of Rock,The 50's - The Birth of Rock,no,325
+lftg-7-2009-the-60-s-female-vocalists,lftg-7-2009,LFTG 7 (2009),The 60's - Female Vocalists,The 60's - Female Vocalists,no,335
+lftg-7-2009-the-60-s-the-british-invasion,lftg-7-2009,LFTG 7 (2009),The 60's - The British Invasion,The 60's - The British Invasion,no,343
+lftg-7-2009-the-70-s-am-rock,lftg-7-2009,LFTG 7 (2009),The 70's - AM Rock,The 70's - AM Rock,no,351
+lftg-7-2009-the-80-s-alternative-rock,lftg-7-2009,LFTG 7 (2009),The 80's - Alternative Rock,The 80's - Alternative Rock,no,358
+lftg-7-2009-the-80-s-canadian-rock,lftg-7-2009,LFTG 7 (2009),The 80's - Canadian Rock,The 80's - Canadian Rock,no,364
+lftg-7-2009-the-90-s-the-seattle-sound,lftg-7-2009,LFTG 7 (2009),The 90's - The Seattle Sound,The 90's - The Seattle Sound,no,372
+lftg-7-2009-the-2000-s-modern-rock,lftg-7-2009,LFTG 7 (2009),The 2000's - Modern Rock,The 2000's - Modern Rock,no,380
+lftg-8-2009-the-daft-devils,lftg-8-2009,LFTG 8 (2009),The Daft Devils,The Daft Devils,no,398
+lftg-8-2009-sonic-white,lftg-8-2009,LFTG 8 (2009),Sonic White,Sonic White,no,406
+lftg-8-2009-your-mother,lftg-8-2009,LFTG 8 (2009),Your Mother,Your Mother,no,413
+lftg-8-2009-audio-overdrive,lftg-8-2009,LFTG 8 (2009),Audio Overdrive,Audio Overdrive,no,419
+lftg-8-2009-clap-beat-good,lftg-8-2009,LFTG 8 (2009),Clap Beat Good,Clap Beat Good,no,427
+lftg-8-2009-pink-radio,lftg-8-2009,LFTG 8 (2009),Pink Radio,Pink Radio,no,435
+lftg-8-2009-dominic-and-the-dominators,lftg-8-2009,LFTG 8 (2009),Dominic and the Dominators,Dominic and the Dominators,no,443
+lftg-9-2010-the-daft-devils,lftg-9-2010,LFTG 9 (2010),The Daft Devils,The Daft Devils,no,466
+lftg-9-2010-above-the-clinic,lftg-9-2010,LFTG 9 (2010),Above The Clinic,Above The Clinic,no,474
+lftg-9-2010-surf-s-up,lftg-9-2010,LFTG 9 (2010),Surf's Up!,Surf's Up!,no,481
+lftg-9-2010-the-muted,lftg-9-2010,LFTG 9 (2010),The Muted,The Muted,no,486
+lftg-9-2010-citizen-jane,lftg-9-2010,LFTG 9 (2010),Citizen Jane,Citizen Jane,no,493
+lftg-9-2010-evolution-destruction,lftg-9-2010,LFTG 9 (2010),Evolution Destruction,Evolution Destruction,no,502
+lftg-9-2010-sell-it-to-the-crowd,lftg-9-2010,LFTG 9 (2010),Sell It To The Crowd,Sell It To The Crowd,no,510
+lftg-9-2010-fire-in-the-sky,lftg-9-2010,LFTG 9 (2010),Fire In the Sky,Fire In the Sky,no,519
+lftg-10-2011-the-daft-devils,lftg-10-2011,LFTG 10 (2011),The Daft Devils,The Daft Devils,no,538
+lftg-10-2011-the-indra-club,lftg-10-2011,LFTG 10 (2011),The Indra Club,The Indra Club,no,546
+lftg-10-2011-the-brothers,lftg-10-2011,LFTG 10 (2011),The Brothers,The Brothers,no,556
+lftg-10-2011-twenty-fingers,lftg-10-2011,LFTG 10 (2011),Twenty Fingers,Twenty Fingers,no,564
+lftg-10-2011-through-waves,lftg-10-2011,LFTG 10 (2011),Through Waves,Through Waves,no,572
+lftg-10-2011-the-muted,lftg-10-2011,LFTG 10 (2011),The Muted,The Muted,no,581
+lftg-10-2011-los-tres-gatos,lftg-10-2011,LFTG 10 (2011),Los Tres Gatos,Los Tres Gatos,no,589
+lftg-10-2011-this-wasted-land,lftg-10-2011,LFTG 10 (2011),This Wasted Land,This Wasted Land,no,597
+lftg-11-2012-the-flu-fighters,lftg-11-2012,LFTG 11 (2012),The Flu Fighters,The Flu Fighters,no,615
+lftg-11-2012-the-daft-devils,lftg-11-2012,LFTG 11 (2012),The Daft Devils,The Daft Devils,no,622
+lftg-11-2012-the-infantry,lftg-11-2012,LFTG 11 (2012),The Infantry,The Infantry,no,630
+lftg-11-2012-the-muted,lftg-11-2012,LFTG 11 (2012),The Muted,The Muted,no,637
+lftg-11-2012-the-country-cousins,lftg-11-2012,LFTG 11 (2012),The Country Cousins,The Country Cousins,no,645
+lftg-11-2012-above-the-clinic,lftg-11-2012,LFTG 11 (2012),Above The Clinic,Above The Clinic,no,652
+lftg-11-2012-heavy-boots-of-lead,lftg-11-2012,LFTG 11 (2012),Heavy Boots Of Lead,Heavy Boots Of Lead,no,658
+lftg-11-2012-broken-rules,lftg-11-2012,LFTG 11 (2012),Broken Rules,Broken Rules,no,665
+lftg-12-2013-moderately-trained-monkeys,lftg-12-2013,LFTG 12 (2013),Moderately Trained Monkeys,Moderately Trained Monkeys,no,685
+lftg-12-2013-six-strings,lftg-12-2013,LFTG 12 (2013),Six Strings,Six Strings,no,692
+lftg-12-2013-silver-city,lftg-12-2013,LFTG 12 (2013),Silver City,Silver City,no,700
+lftg-12-2013-the-daft-devils,lftg-12-2013,LFTG 12 (2013),The Daft Devils,The Daft Devils,no,707
+lftg-12-2013-the-switch,lftg-12-2013,LFTG 12 (2013),The Switch,The Switch,no,713
+lftg-12-2013-detour,lftg-12-2013,LFTG 12 (2013),Detour,Detour,no,720
+lftg-12-2013-the-intruders,lftg-12-2013,LFTG 12 (2013),The Intruders,The Intruders,no,727
+lftg-13-2014-dr-x,lftg-13-2014,LFTG 13 (2014),Dr. X,Dr. X,no,745
+lftg-13-2014-lost-souls,lftg-13-2014,LFTG 13 (2014),Lost Souls,Lost Souls,no,753
+lftg-13-2014-night-of-terror,lftg-13-2014,LFTG 13 (2014),Night Of Terror,Night Of Terror,no,760
+lftg-13-2014-castle-sinister,lftg-13-2014,LFTG 13 (2014),Castle Sinister,Castle Sinister,no,768
+lftg-13-2014-dark-eyes-of-london,lftg-13-2014,LFTG 13 (2014),Dark Eyes Of London,Dark Eyes Of London,no,776
+lftg-13-2014-the-phantoms,lftg-13-2014,LFTG 13 (2014),The Phantoms,The Phantoms,no,783
+lftg-14-2015-marie-kametani,lftg-14-2015,LFTG 14 (2015),Marie Kametani,Marie Kametani,no,805
+lftg-14-2015-street-spirit,lftg-14-2015,LFTG 14 (2015),Street Spirit,Street Spirit,no,810
+lftg-14-2015-near-dawn,lftg-14-2015,LFTG 14 (2015),Near Dawn,Near Dawn,no,810
+lftg-14-2015-the-unknown,lftg-14-2015,LFTG 14 (2015),The Unknown,The Unknown,no,817
+lftg-14-2015-tracy-island,lftg-14-2015,LFTG 14 (2015),Tracy Island,Tracy Island,no,824
+lftg-14-2015-piltdown-man,lftg-14-2015,LFTG 14 (2015),Piltdown Man,Piltdown Man,no,831
+lftg-14-2015-armageddon-flame,lftg-14-2015,LFTG 14 (2015),Armageddon Flame,Armageddon Flame,no,837
+lftg-14-2015-carmen-and-the-devil,lftg-14-2015,LFTG 14 (2015),Carmen and The Devil,Carmen and The Devil,no,844
+lftg-15-2016-one-way-ticket,lftg-15-2016,LFTG 15 (2016),One Way Ticket,One Way Ticket,no,865
+lftg-15-2016-man-on-the-scene,lftg-15-2016,LFTG 15 (2016),Man On The Scene,Man On The Scene,no,872
+lftg-15-2016-ripped-at-the-seams,lftg-15-2016,LFTG 15 (2016),Ripped At The Seams,Ripped At The Seams,no,881
+lftg-15-2016-the-haiverers,lftg-15-2016,LFTG 15 (2016),The Haiverers,The Haiverers,no,890
+lftg-15-2016-the-daft-devils,lftg-15-2016,LFTG 15 (2016),The Daft Devils,The Daft Devils,no,898
+lftg-15-2016-the-zoot-suits,lftg-15-2016,LFTG 15 (2016),The Zoot Suits,The Zoot Suits,no,905
+lftg-15-2016-throwing-knives,lftg-15-2016,LFTG 15 (2016),Throwing Knives,Throwing Knives,no,910
+lftg-15-2016-supersonic-twist,lftg-15-2016,LFTG 15 (2016),Supersonic Twist,Supersonic Twist,no,918
+lftg-16-2017-street-spirit,lftg-16-2017,LFTG 16 (2017),Street Spirit,Street Spirit,no,999
+lftg-16-2017-listen-bud,lftg-16-2017,LFTG 16 (2017),Listen Bud,Listen Bud,no,1006
+lftg-16-2017-psychic-spies,lftg-16-2017,LFTG 16 (2017),Psychic Spies,Psychic Spies,no,1015
+lftg-16-2017-the-lawn-mowers,lftg-16-2017,LFTG 16 (2017),The Lawn Mowers,The Lawn Mowers,no,1030
+lftg-16-2017-1000-stars,lftg-16-2017,LFTG 16 (2017),1000 Stars,1000 Stars,no,1039
+lftg-16-2017-richard-said,lftg-16-2017,LFTG 16 (2017),Richard Said,Richard Said,no,1039
+lftg-16-2017-thm,lftg-16-2017,LFTG 16 (2017),THM,THM,no,1048
+lftg-17-2018-charm-city,lftg-17-2018,LFTG 17 (2018),Charm City,Charm City,no,1065
+lftg-17-2018-yellow-tigers,lftg-17-2018,LFTG 17 (2018),Yellow Tigers,Yellow Tigers,no,1074
+lftg-17-2018-the-mission-bell,lftg-17-2018,LFTG 17 (2018),The Mission Bell,The Mission Bell,no,1081
+lftg-17-2018-echo-and-sway,lftg-17-2018,LFTG 17 (2018),Echo And Sway,Echo And Sway,no,1090
+lftg-17-2018-day-glo-jones,lftg-17-2018,LFTG 17 (2018),Day-Glo Jones,Day-Glo Jones,no,1090
+lftg-17-2018-the-clashroom,lftg-17-2018,LFTG 17 (2018),The Clashroom,The Clashroom,no,1098
+lftg-18-2019-toaster-ghosts,lftg-18-2019,LFTG 18 (2019),Toaster Ghosts,Toaster Ghosts,no,1125
+lftg-18-2019-the-dicky-birds,lftg-18-2019,LFTG 18 (2019),The Dicky Birds,The Dicky Birds,no,1132
+lftg-18-2019-the-secret-chords,lftg-18-2019,LFTG 18 (2019),The Secret Chords,The Secret Chords,no,1138
+lftg-18-2019-confused-and-bruised,lftg-18-2019,LFTG 18 (2019),Confused And Bruised,Confused And Bruised,no,1143
+lftg-18-2019-fast-machine,lftg-18-2019,LFTG 18 (2019),Fast Machine,Fast Machine,no,1153
+lftg-18-2019-pretty-liar,lftg-18-2019,LFTG 18 (2019),Pretty Liar,Pretty Liar,no,1161
+lftg-18-2019-crossfire-hurricane,lftg-18-2019,LFTG 18 (2019),Crossfire Hurricane,Crossfire Hurricane,no,1168
+lftg-18-2019-the-clashroom,lftg-18-2019,LFTG 18 (2019),The Clashroom,The Clashroom,no,1176
+lftg-18-2019-sticky-trigger,lftg-18-2019,LFTG 18 (2019),Sticky Trigger,Sticky Trigger,no,1184
+lftg-19-2020-the-only-lights,lftg-19-2020,LFTG 19 (2020),The Only Lights,The Only Lights,no,1475
+lftg-19-2020-the-wrong,lftg-19-2020,LFTG 19 (2020),The Wrong,The Wrong,no,1481
+lftg-19-2020-the-spaces,lftg-19-2020,LFTG 19 (2020),The Spaces,The Spaces,no,1487
+lftg-19-2020-the-dicky-birds,lftg-19-2020,LFTG 19 (2020),The Dicky Birds,The Dicky Birds,no,1493
+lftg-19-2020-soul-slide,lftg-19-2020,LFTG 19 (2020),Soul Slide,Soul Slide,no,1499
+lftg-19-2020-sonic-shower,lftg-19-2020,LFTG 19 (2020),Sonic Shower,Sonic Shower,no,1505
+lftg-19-2020-hard-luck,lftg-19-2020,LFTG 19 (2020),Hard Luck,Hard Luck,no,1512
+lftg-19-2020-toaster-ghost,lftg-19-2020,LFTG 19 (2020),Toaster Ghost,Toaster Ghost,no,1518
+lftg-19-2020-crossfire-hurricane,lftg-19-2020,LFTG 19 (2020),Crossfire Hurricane,Crossfire Hurricane,no,1524
+lftg-19-2020-the-clashroom,lftg-19-2020,LFTG 19 (2020),The Clashroom,The Clashroom,no,1530
+lftg-19-2020-the-5-15,lftg-19-2020,LFTG 19 (2020),The 5:15,The 5:15,no,1536
+lftg-19-5-2021-the-lean-greens,lftg-19-5-2021,LFTG 19.5 (2021),The Lean Greens,The Lean Greens,no,1551
+lftg-19-5-2021-the-dicky-birds,lftg-19-5-2021,LFTG 19.5 (2021),The Dicky Birds,The Dicky Birds,no,1557
+lftg-19-5-2021-the-wrong,lftg-19-5-2021,LFTG 19.5 (2021),The Wrong,The Wrong,no,1563
+lftg-19-5-2021-the-southend-suits,lftg-19-5-2021,LFTG 19.5 (2021),The Southend Suits,The Southend Suits,no,1570
+lftg-19-5-2021-the-clashroom,lftg-19-5-2021,LFTG 19.5 (2021),The Clashroom,The Clashroom,no,1576
+lftg-19-5-2021-the-bluebirds,lftg-19-5-2021,LFTG 19.5 (2021),The Bluebirds,The Bluebirds,no,1582
+lftg-19-5-2021-sonic-shower,lftg-19-5-2021,LFTG 19.5 (2021),Sonic Shower,Sonic Shower,no,1587
+lftg-19-5-2021-the-ninth-wave,lftg-19-5-2021,LFTG 19.5 (2021),The Ninth Wave,The Ninth Wave,no,1594
+lftg-19-5-2021-rock-n-nolans,lftg-19-5-2021,LFTG 19.5 (2021),Rock n Nolans,Rock n Nolans,no,1599
+lftg-19-5-2021-soft-speak,lftg-19-5-2021,LFTG 19.5 (2021),Soft Speak,Soft Speak,no,1604
+lftg-19-5-2021-street-spirit,lftg-19-5-2021,LFTG 19.5 (2021),Street Spirit,Street Spirit,no,1610
+lftg-19-5-2021-the-5-15,lftg-19-5-2021,LFTG 19.5 (2021),The 5:15,The 5:15,no,1617
+lftg-19-5-2021-the-lightning,lftg-19-5-2021,LFTG 19.5 (2021),The Lightning,The Lightning,no,1623
+lftg-20-2022-t-c,lftg-20-2022,LFTG 20 (2022),T & C,T & C,no,1639
+lftg-20-2022-white-orchid,lftg-20-2022,LFTG 20 (2022),White Orchid,White Orchid,no,1644
+lftg-20-2022-another-heart,lftg-20-2022,LFTG 20 (2022),Another Heart,Another Heart,no,1651
+lftg-20-2022-the-mighty,lftg-20-2022,LFTG 20 (2022),The Mighty,The Mighty,no,1660
+lftg-20-2022-the-wrong,lftg-20-2022,LFTG 20 (2022),The Wrong,The Wrong,no,1668
+lftg-20-2022-the-daydreamers,lftg-20-2022,LFTG 20 (2022),The Daydreamers,The Daydreamers,no,1677
+lftg-20-2022-sonic-shower,lftg-20-2022,LFTG 20 (2022),Sonic Shower,Sonic Shower,no,1685
+lftg-20-2022-strictly-rhythm,lftg-20-2022,LFTG 20 (2022),Strictly Rhythm,Strictly Rhythm,no,1694
+lftg-20-2022-sour-apples,lftg-20-2022,LFTG 20 (2022),Sour Apples,Sour Apples,no,1703
+lftg-20-2022-crossfire-hurricane,lftg-20-2022,LFTG 20 (2022),Crossfire Hurricane,Crossfire Hurricane,no,1711
+lftg-20-2022-electric-word,lftg-20-2022,LFTG 20 (2022),Electric Word,Electric Word,no,1720
+lftg-21-2023-red-hot-chicken-nuggets,lftg-21-2023,LFTG 21 (2023),Red Hot Chicken Nuggets,Red Hot Chicken Nuggets,no,1738
+lftg-21-2023-the-authentic-strings,lftg-21-2023,LFTG 21 (2023),The Authentic Strings,The Authentic Strings,no,1745
+lftg-21-2023-the-broken-picks,lftg-21-2023,LFTG 21 (2023),The Broken Picks,The Broken Picks,no,1753
+lftg-21-2023-the-sarcastics,lftg-21-2023,LFTG 21 (2023),The Sarcastics,The Sarcastics,no,1761
+lftg-21-2023-freight-train,lftg-21-2023,LFTG 21 (2023),Freight Train,Freight Train,no,1768
+lftg-21-2023-the-wrong,lftg-21-2023,LFTG 21 (2023),The Wrong,The Wrong,no,1777
+lftg-21-2023-ribbons-of-euphoria,lftg-21-2023,LFTG 21 (2023),Ribbons Of Euphoria,Ribbons Of Euphoria,no,1786
+lftg-21-2023-sonic-shower,lftg-21-2023,LFTG 21 (2023),Sonic Shower,Sonic Shower,no,1794
+lftg-21-2023-sour-apples,lftg-21-2023,LFTG 21 (2023),Sour Apples,Sour Apples,no,1803
+lftg-21-2023-crossfire-hurricane,lftg-21-2023,LFTG 21 (2023),Crossfire Hurricane,Crossfire Hurricane,no,1812
+lftg-21-2023-electric-word,lftg-21-2023,LFTG 21 (2023),Electric Word,Electric Word,no,1821
+lftg-22-2024-magnetic-field,lftg-22-2024,LFTG 22 (2024),Magnetic Field,Magnetic Field,no,1233
+lftg-22-2024-red-hot-chicken-nuggets,lftg-22-2024,LFTG 22 (2024),Red Hot Chicken Nuggets,Red Hot Chicken Nuggets,no,1241
+lftg-22-2024-the-easy-riders,lftg-22-2024,LFTG 22 (2024),The Easy Riders,The Easy Riders,no,1247
+lftg-22-2024-the-messy-pearls,lftg-22-2024,LFTG 22 (2024),The Messy Pearls,The Messy Pearls,no,1254
+lftg-22-2024-overworld,lftg-22-2024,LFTG 22 (2024),Overworld,Overworld,yes,1260
+lftg-22-2024-the-sarcastics-featuring-wolf-and-sohn,lftg-22-2024,LFTG 22 (2024),The Sarcastics (featuring Wolf and Sohn),The Sarcastics (featuring Wolf and Sohn),no,1264
+lftg-22-2024-freight-train,lftg-22-2024,LFTG 22 (2024),Freight Train,Freight Train,no,1273
+lftg-22-2024-the-broken-picks,lftg-22-2024,LFTG 22 (2024),The Broken Picks,The Broken Picks,no,1281
+lftg-22-2024-april-sky,lftg-22-2024,LFTG 22 (2024),April Sky,April Sky,no,1290
+lftg-22-2024-sour-apples,lftg-22-2024,LFTG 22 (2024),Sour Apples,Sour Apples,no,1298
+lftg-22-2024-the-wrong,lftg-22-2024,LFTG 22 (2024),The Wrong,The Wrong,no,1304
+lftg-22-2024-sonic-shower,lftg-22-2024,LFTG 22 (2024),Sonic Shower,Sonic Shower,no,1313
+lftg-22-2024-crossfire-hurricane,lftg-22-2024,LFTG 22 (2024),Crossfire Hurricane,Crossfire Hurricane,no,1322
+lftg-22-2024-the-cruelest-line,lftg-22-2024,LFTG 22 (2024),The Cruelest Line,The Cruelest Line,no,1333
+lftg-23-2025-sarah-elman,lftg-23-2025,LFTG 23 (2025),Sarah Elman,Sarah Elman,no,1358
+lftg-23-2025-mental-metal,lftg-23-2025,LFTG 23 (2025),Mental Metal,Mental Metal,no,1364
+lftg-23-2025-marcil-playground,lftg-23-2025,LFTG 23 (2025),Marcil Playground,Marcil Playground,no,1371
+lftg-23-2025-red-hot-chicken-nuggets,lftg-23-2025,LFTG 23 (2025),Red Hot Chicken Nuggets,Red Hot Chicken Nuggets,no,1377
+lftg-23-2025-the-only-one,lftg-23-2025,LFTG 23 (2025),The Only One,The Only One,no,1384
+lftg-23-2025-mirror-madness,lftg-23-2025,LFTG 23 (2025),Mirror Madness,Mirror Madness,no,1391
+lftg-23-2025-off-track,lftg-23-2025,LFTG 23 (2025),Off Track,Off Track,no,1399
+lftg-23-2025-sour-apples,lftg-23-2025,LFTG 23 (2025),Sour Apples,Sour Apples,no,1407
+lftg-23-2025-mechanically-separated,lftg-23-2025,LFTG 23 (2025),Mechanically Separated,Mechanically Separated,no,1413
+lftg-23-2025-the-wrong,lftg-23-2025,LFTG 23 (2025),The Wrong,The Wrong,no,1423
+lftg-23-2025-modern-movement,lftg-23-2025,LFTG 23 (2025),Modern Movement,Modern Movement,no,1430
+lftg-23-2025-crossfire-hurricane,lftg-23-2025,LFTG 23 (2025),Crossfire Hurricane,Crossfire Hurricane,no,1437
+lftg-23-2025-the-lost-art,lftg-23-2025,LFTG 23 (2025),The Lost Art,The Lost Art,no,1446
