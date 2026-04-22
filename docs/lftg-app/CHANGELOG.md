@@ -9,7 +9,7 @@ FORMAT
 2026-04-21
 - Added scripts/release-check.sh for one-command preflight (repo check, required files, compile test, credential-like scan)
 - Makes each public release faster and safer with a repeatable automated gate before push
-- pending
+- 4fff4fd
 
 2026-04-21
 - Added PUBLIC-RELEASE-CHECKLIST.md and linked it in TOOLS.md for repeatable pre-push safety and deployment verification
