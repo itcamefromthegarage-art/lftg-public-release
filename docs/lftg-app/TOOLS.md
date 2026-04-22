@@ -13,6 +13,8 @@ COMMON COMMANDS
   - python3 lftg-data/sync-video-database.py
 - Run public release preflight check:
   - ./scripts/release-check.sh
+- Run end-to-end release flow (optional):
+  - ./scripts/release-publish.sh --sync
 - Restart app:
   - pkill -f "python3 -m streamlit run /Users/ndgms/.openclaw/workspace/lftg-app/app.py" || true
   - python3 -m streamlit run /Users/ndgms/.openclaw/workspace/lftg-app/app.py --server.port 8501 --server.headless true

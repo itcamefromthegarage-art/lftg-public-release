@@ -13,6 +13,12 @@ QUICK AUTOMATED CHECK
   - ./scripts/release-check.sh
 - Then use the checklist below for manual review points.
 
+ONE-COMMAND RELEASE OPTION
+- If you want one script to do sync + check + commit + optional push:
+  - ./scripts/release-publish.sh --sync
+- Non-interactive example:
+  - ./scripts/release-publish.sh --sync -m "Update LFTG data" --yes
+
 PRE-PUSH CHECKS
 1) WORK IN THE CORRECT REPO
 - Repo path should be: /Users/ndgms/.openclaw/workspace/lftg-public-release

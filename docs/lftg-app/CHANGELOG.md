@@ -7,6 +7,11 @@ FORMAT
 - COMMIT
 
 2026-04-21
+- Added scripts/release-publish.sh for one-command release flow (optional sync, preflight check, commit prompt, optional push)
+- Reduces release friction and keeps the push sequence consistent for every public update
+- pending
+
+2026-04-21
 - Added scripts/release-check.sh for one-command preflight (repo check, required files, compile test, credential-like scan)
 - Makes each public release faster and safer with a repeatable automated gate before push
 - 4fff4fd
