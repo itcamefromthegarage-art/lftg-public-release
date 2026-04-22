@@ -8,6 +8,11 @@ USE THIS WHEN
 - You are about to push to main on the public repo.
 - You updated code, data CSV files, or public-facing assets.
 
+QUICK AUTOMATED CHECK
+- Run this first:
+  - ./scripts/release-check.sh
+- Then use the checklist below for manual review points.
+
 PRE-PUSH CHECKS
 1) WORK IN THE CORRECT REPO
 - Repo path should be: /Users/ndgms/.openclaw/workspace/lftg-public-release

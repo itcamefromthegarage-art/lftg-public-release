@@ -7,6 +7,11 @@ FORMAT
 - COMMIT
 
 2026-04-21
+- Added scripts/release-check.sh for one-command preflight (repo check, required files, compile test, credential-like scan)
+- Makes each public release faster and safer with a repeatable automated gate before push
+- pending
+
+2026-04-21
 - Added PUBLIC-RELEASE-CHECKLIST.md and linked it in TOOLS.md for repeatable pre-push safety and deployment verification
 - Reduces accidental public exposure risk and standardizes release QA before every live update
 - be0145a
