@@ -9,7 +9,7 @@ FORMAT
 2026-04-21
 - Added scripts/release-publish.sh for one-command release flow (optional sync, preflight check, commit prompt, optional push)
 - Reduces release friction and keeps the push sequence consistent for every public update
-- pending
+- ce3a112
 
 2026-04-21
 - Added scripts/release-check.sh for one-command preflight (repo check, required files, compile test, credential-like scan)
