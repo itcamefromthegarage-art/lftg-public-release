@@ -9,7 +9,7 @@ FORMAT
 2026-04-24
 - Fixed LFTG sheet sync scripts to write relative to the current repo (not hardcoded workspace paths), then re-synced Programs Data and Video Database
 - Google Sheet corrections now propagate correctly to this public-release dataset before deploy/push
-- 5e5ab62
+- be96460
 
 2026-04-21
 - Added scripts/release-publish.sh for one-command release flow (optional sync, preflight check, commit prompt, optional push)
