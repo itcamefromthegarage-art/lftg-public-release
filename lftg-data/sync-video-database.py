@@ -5,7 +5,7 @@ import subprocess
 from pathlib import Path
 
 VIDEO_SHEET_ID = "1Rvrx2sm5JGlVJUEq_Z-L7zfTFDAxPBU3bUZwHHL_zQw"
-ROOT = Path('/Users/ndgms/.openclaw/workspace')
+ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / 'lftg-data' / 'data'
 OUT = DATA_DIR / 'videos.clean.csv'
 BANDS_CSV = DATA_DIR / 'bands.clean.csv'

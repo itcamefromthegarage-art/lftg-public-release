@@ -5,8 +5,8 @@ import subprocess
 from pathlib import Path
 
 SHEET_ID = "1J0ek4EMkzbF-SioEiuIIAKryJt_EyUo1fJj5Dc1S6cc"
-ROOT = Path('/Users/ndgms/.openclaw/workspace/lftg-data')
-DATA = ROOT / 'data'
+ROOT = Path(__file__).resolve().parents[1]
+DATA = ROOT / 'lftg-data' / 'data'
 DATA.mkdir(parents=True, exist_ok=True)
 
 # Sheet tab -> local csv path
