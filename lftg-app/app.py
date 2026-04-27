@@ -891,7 +891,7 @@ def main():
     with tabs_row_right:
         st.markdown(
             """
-            <div style="display:flex; justify-content:flex-end; align-items:center; margin-top:6px; margin-bottom:-44px; position:relative; z-index:5;">
+            <div style="display:flex; justify-content:flex-end; align-items:center; margin-top:10px; margin-bottom:-36px; position:relative; z-index:5;">
                 <a href="https://ndgmusicschool.com/en/" target="_self" style="
                     display:inline-block;
                     text-decoration:none;
