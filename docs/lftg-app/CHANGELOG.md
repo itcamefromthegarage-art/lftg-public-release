@@ -9,7 +9,7 @@ FORMAT
 2026-04-27
 - Hybrid layout fix: kept ExampleA overall structure while anchoring "Return to NDG Music School" in the ExampleB top-right/tab-row area (not bottom)
 - Kept button at roughly half-width relative to the prior full-width right control
-- pending
+- 327e25a
 
 2026-04-24
 - Fixed LFTG sheet sync scripts to write relative to the current repo (not hardcoded workspace paths), then re-synced Programs Data and Video Database
