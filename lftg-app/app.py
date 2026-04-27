@@ -871,6 +871,10 @@ def show_explorer_view(appearances: pd.DataFrame, videos: pd.DataFrame):
 def main():
     apply_theme("Vintage Poster")
 
+    _, top_right = st.columns([5, 2])
+    with top_right:
+        st.link_button("Return to NDG Music School", "https://ndgmusicschool.com/en/", use_container_width=True)
+
     st.markdown(
         """
         <div class="hero-box">

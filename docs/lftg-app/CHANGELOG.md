@@ -6,6 +6,11 @@ FORMAT
 - IMPACT
 - COMMIT
 
+2026-04-27
+- Added a top-right in-app button: "Return to NDG Music School" linking to https://ndgmusicschool.com/en/
+- Visitors can jump back to the main website from inside the app without using browser navigation
+- pending
+
 2026-04-24
 - Fixed LFTG sheet sync scripts to write relative to the current repo (not hardcoded workspace paths), then re-synced Programs Data and Video Database
 - Google Sheet corrections now propagate correctly to this public-release dataset before deploy/push
