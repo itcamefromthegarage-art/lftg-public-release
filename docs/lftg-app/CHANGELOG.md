@@ -9,7 +9,7 @@ FORMAT
 2026-04-27
 - Moved the in-app "Return to NDG Music School" button below the hero title panel and aligned it with the tabs row, styled to match the Show Explorer tab color scheme
 - Navigation back to ndgmusicschool.com now sits in the tab area with a consistent visual look
-- 88277ff
+- 9f4e31c
 
 2026-04-24
 - Fixed LFTG sheet sync scripts to write relative to the current repo (not hardcoded workspace paths), then re-synced Programs Data and Video Database
