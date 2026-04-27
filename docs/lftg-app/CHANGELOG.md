@@ -9,7 +9,7 @@ FORMAT
 2026-04-27
 - Positioned the in-app "Return to NDG Music School" button in the ExampleB location: same row as tabs, aligned on the right side beside the tab cluster
 - Keeps overall layout while placing the return control in the requested right-side tab-row position
-- pending
+- 0e1336d
 
 2026-04-24
 - Fixed LFTG sheet sync scripts to write relative to the current repo (not hardcoded workspace paths), then re-synced Programs Data and Video Database
