@@ -129,16 +129,42 @@ def apply_theme(theme_name: str):
             color: #ffffff !important;
             text-shadow: none !important;
         }}
-        .stTabs [data-baseweb="tab-list"] {{ gap: 8px; }}
+        .stTabs [data-baseweb="tab-list"] {{
+            gap: 8px;
+            width: 100%;
+            align-items: stretch;
+        }}
         .stTabs [data-baseweb="tab"] {{
             border-radius: 8px;
             border: 1px solid {t['accent']};
             padding: 8px 12px;
+            min-height: 38px;
+            display: inline-flex;
+            align-items: center;
+            box-sizing: border-box;
             background: rgba(20,12,8,0.62);
             color: #ffd84d !important;
         }}
         .stTabs [data-baseweb="tab"] * {{
             color: #ffd84d !important;
+        }}
+        .ndg-tab-spacer {{
+            flex: 1 1 auto;
+        }}
+        .ndg-return-tab-link {{
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            border-radius: 8px;
+            border: 1px solid {t['accent']};
+            padding: 8px 12px;
+            min-height: 38px;
+            box-sizing: border-box;
+            background: rgba(20,12,8,0.62);
+            color: #ffd84d !important;
+            font-weight: 600;
+            white-space: nowrap;
         }}
 
         /* Dropdowns: black backgrounds with white text */
@@ -887,30 +913,38 @@ def main():
 
     appearances, shows, bands, videos = load_data()
 
-    _, tabs_row_right = st.columns([5, 2])
-    with tabs_row_right:
-        st.markdown(
-            """
-            <div style="display:flex; justify-content:flex-end; align-items:center; margin-top:22px; margin-bottom:-12px; position:relative; z-index:5;">
-                <a href="https://ndgmusicschool.com/en/" target="_self" style="
-                    display:inline-block;
-                    text-decoration:none;
-                    border-radius:8px;
-                    border:1px solid #9b2c2c;
-                    padding:8px 12px;
-                    background: rgba(20,12,8,0.62);
-                    color:#ffd84d;
-                    font-weight:600;
-                    text-align:center;
-                    width:50%;
-                    min-width:180px;
-                ">Return to NDG Music School</a>
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
-
     tab1, tab2, tab3, tab4, tab5 = st.tabs(["Show Explorer", "Performer", "Band", "Leaderboards", "What Is LFTG?"])
+
+    components.html(
+        """
+        <script>
+        (function () {
+          const doc = window.parent.document;
+          const tabList = doc.querySelector('.stTabs [data-baseweb="tab-list"]');
+          if (!tabList) return;
+
+          if (!doc.getElementById('ndg-return-tab-link')) {
+            if (!tabList.querySelector('.ndg-tab-spacer')) {
+              const spacer = doc.createElement('div');
+              spacer.className = 'ndg-tab-spacer';
+              tabList.appendChild(spacer);
+            }
+
+            const link = doc.createElement('a');
+            link.id = 'ndg-return-tab-link';
+            link.className = 'ndg-return-tab-link';
+            link.href = 'https://ndgmusicschool.com/en/';
+            link.target = '_self';
+            link.rel = 'noopener';
+            link.textContent = 'Return to NDG Music School';
+            tabList.appendChild(link);
+          }
+        })();
+        </script>
+        """,
+        height=0,
+        width=0,
+    )
     with tab1:
         show_explorer_view(appearances, videos)
     with tab2:
