@@ -887,13 +887,11 @@ def main():
 
     appearances, shows, bands, videos = load_data()
 
-    tab1, tab2, tab3, tab4, tab5 = st.tabs(["Show Explorer", "Performer", "Band", "Leaderboards", "What Is LFTG?"])
-
     _, tabs_row_right = st.columns([5, 2])
     with tabs_row_right:
         st.markdown(
             """
-            <div style="display:flex; justify-content:flex-end; align-items:center; height:0; margin-top:-52px; margin-bottom:18px;">
+            <div style="display:flex; justify-content:flex-end; align-items:center; margin-top:6px; margin-bottom:-44px; position:relative; z-index:5;">
                 <a href="https://ndgmusicschool.com/en/" target="_self" style="
                     display:inline-block;
                     text-decoration:none;
@@ -911,6 +909,8 @@ def main():
             """,
             unsafe_allow_html=True,
         )
+
+    tab1, tab2, tab3, tab4, tab5 = st.tabs(["Show Explorer", "Performer", "Band", "Leaderboards", "What Is LFTG?"])
     with tab1:
         show_explorer_view(appearances, videos)
     with tab2:
