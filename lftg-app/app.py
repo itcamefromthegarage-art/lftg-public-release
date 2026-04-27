@@ -887,10 +887,12 @@ def main():
 
     appearances, shows, bands, videos = load_data()
 
-    tab1, tab2, tab3, tab4, tab5 = st.tabs(["Show Explorer", "Performer", "Band", "Leaderboards", "What Is LFTG?"])
+    tabs_col, return_col = st.columns([7, 3], gap="small")
 
-    _, tabs_row_right = st.columns([5, 2])
-    with tabs_row_right:
+    with tabs_col:
+        tab1, tab2, tab3, tab4, tab5 = st.tabs(["Show Explorer", "Performer", "Band", "Leaderboards", "What Is LFTG?"])
+
+    with return_col:
         st.markdown(
             """
             <div style="display:flex; justify-content:flex-end; align-items:center; height:100%; margin-top:2px;">
