@@ -881,6 +881,14 @@ def main():
         unsafe_allow_html=True,
     )
 
+    if not APPEARANCES_CSV.exists() or not SHOWS_CSV.exists() or not BANDS_CSV.exists():
+        st.error("Data files not found. Run sync first: python3 lftg-data/sync-from-sheet.py")
+        return
+
+    appearances, shows, bands, videos = load_data()
+
+    tab1, tab2, tab3, tab4, tab5 = st.tabs(["Show Explorer", "Performer", "Band", "Leaderboards", "What Is LFTG?"])
+
     _, tabs_row_right = st.columns([5, 2])
     with tabs_row_right:
         st.markdown(
@@ -902,14 +910,6 @@ def main():
             """,
             unsafe_allow_html=True,
         )
-
-    if not APPEARANCES_CSV.exists() or not SHOWS_CSV.exists() or not BANDS_CSV.exists():
-        st.error("Data files not found. Run sync first: python3 lftg-data/sync-from-sheet.py")
-        return
-
-    appearances, shows, bands, videos = load_data()
-
-    tab1, tab2, tab3, tab4, tab5 = st.tabs(["Show Explorer", "Performer", "Band", "Leaderboards", "What Is LFTG?"])
     with tab1:
         show_explorer_view(appearances, videos)
     with tab2:
