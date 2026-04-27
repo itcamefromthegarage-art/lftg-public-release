@@ -140,19 +140,6 @@ def apply_theme(theme_name: str):
         .stTabs [data-baseweb="tab"] * {{
             color: #ffd84d !important;
         }}
-        .return-tab-link {{
-            display: inline-block;
-            text-decoration: none !important;
-            border-radius: 8px;
-            border: 1px solid #9b2c2c;
-            padding: 8px 12px;
-            background: rgba(20,12,8,0.62);
-            color: #ffd84d !important;
-            font-weight: 600;
-            text-align: center;
-            width: 100%;
-            line-height: 1.2;
-        }}
 
         /* Dropdowns: black backgrounds with white text */
         [data-testid="stSelectbox"] [data-baseweb="select"] > div,
@@ -894,22 +881,35 @@ def main():
         unsafe_allow_html=True,
     )
 
+    _, tabs_row_right = st.columns([5, 2])
+    with tabs_row_right:
+        st.markdown(
+            """
+            <div style="display:flex; justify-content:flex-end; align-items:center; height:100%; margin-top:2px;">
+                <a href="https://ndgmusicschool.com/en/" target="_self" style="
+                    display:inline-block;
+                    text-decoration:none;
+                    border-radius:8px;
+                    border:1px solid #9b2c2c;
+                    padding:8px 12px;
+                    background: rgba(20,12,8,0.62);
+                    color:#ffd84d;
+                    font-weight:600;
+                    text-align:center;
+                    width:100%;
+                ">Return to NDG Music School</a>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+
     if not APPEARANCES_CSV.exists() or not SHOWS_CSV.exists() or not BANDS_CSV.exists():
         st.error("Data files not found. Run sync first: python3 lftg-data/sync-from-sheet.py")
         return
 
     appearances, shows, bands, videos = load_data()
 
-    tabs_col, return_col = st.columns([7, 3], gap="small")
-
-    with tabs_col:
-        tab1, tab2, tab3, tab4, tab5 = st.tabs(["Show Explorer", "Performer", "Band", "Leaderboards", "What Is LFTG?"])
-
-    with return_col:
-        st.markdown(
-            '<a class="return-tab-link" href="https://ndgmusicschool.com/en/" target="_self">Return to NDG Music School</a>',
-            unsafe_allow_html=True,
-        )
+    tab1, tab2, tab3, tab4, tab5 = st.tabs(["Show Explorer", "Performer", "Band", "Leaderboards", "What Is LFTG?"])
     with tab1:
         show_explorer_view(appearances, videos)
     with tab2:

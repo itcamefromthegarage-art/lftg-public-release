@@ -7,8 +7,8 @@ FORMAT
 - COMMIT
 
 2026-04-27
-- Positioned the in-app "Return to NDG Music School" control directly beside the "What Is LFTG?" tab and matched its tab-style formatting/colors
-- Navigation back to ndgmusicschool.com now appears as a tab-like control on the same row as the app tabs
+- Moved the in-app "Return to NDG Music School" button below the hero title panel and aligned it with the tabs row, styled to match the Show Explorer tab color scheme
+- Navigation back to ndgmusicschool.com now sits in the tab area with a consistent visual look
 - 88277ff
 
 2026-04-24
