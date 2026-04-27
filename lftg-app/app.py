@@ -871,10 +871,6 @@ def show_explorer_view(appearances: pd.DataFrame, videos: pd.DataFrame):
 def main():
     apply_theme("Vintage Poster")
 
-    _, top_right = st.columns([5, 2])
-    with top_right:
-        st.link_button("Return to NDG Music School", "https://ndgmusicschool.com/en/", use_container_width=True)
-
     st.markdown(
         """
         <div class="hero-box">
@@ -884,6 +880,28 @@ def main():
         """,
         unsafe_allow_html=True,
     )
+
+    _, tabs_row_right = st.columns([5, 2])
+    with tabs_row_right:
+        st.markdown(
+            """
+            <div style="display:flex; justify-content:flex-end; align-items:center; height:100%; margin-top:2px;">
+                <a href="https://ndgmusicschool.com/en/" target="_self" style="
+                    display:inline-block;
+                    text-decoration:none;
+                    border-radius:8px;
+                    border:1px solid #9b2c2c;
+                    padding:8px 12px;
+                    background: rgba(20,12,8,0.62);
+                    color:#ffd84d;
+                    font-weight:600;
+                    text-align:center;
+                    width:100%;
+                ">Return to NDG Music School</a>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
 
     if not APPEARANCES_CSV.exists() or not SHOWS_CSV.exists() or not BANDS_CSV.exists():
         st.error("Data files not found. Run sync first: python3 lftg-data/sync-from-sheet.py")

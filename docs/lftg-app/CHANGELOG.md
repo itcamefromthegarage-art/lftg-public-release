@@ -7,8 +7,8 @@ FORMAT
 - COMMIT
 
 2026-04-27
-- Added a top-right in-app button: "Return to NDG Music School" linking to https://ndgmusicschool.com/en/
-- Visitors can jump back to the main website from inside the app without using browser navigation
+- Moved the in-app "Return to NDG Music School" button below the hero title panel and aligned it with the tabs row, styled to match the Show Explorer tab color scheme
+- Navigation back to ndgmusicschool.com now sits in the tab area with a consistent visual look
 - pending
 
 2026-04-24
