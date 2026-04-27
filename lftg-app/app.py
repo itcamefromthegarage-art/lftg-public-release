@@ -887,15 +887,13 @@ def main():
 
     appearances, shows, bands, videos = load_data()
 
-    tabs_col, return_col = st.columns([7, 3], gap="small")
+    tab1, tab2, tab3, tab4, tab5 = st.tabs(["Show Explorer", "Performer", "Band", "Leaderboards", "What Is LFTG?"])
 
-    with tabs_col:
-        tab1, tab2, tab3, tab4, tab5 = st.tabs(["Show Explorer", "Performer", "Band", "Leaderboards", "What Is LFTG?"])
-
-    with return_col:
+    _, tabs_row_right = st.columns([5, 2])
+    with tabs_row_right:
         st.markdown(
             """
-            <div style="display:flex; justify-content:flex-end; align-items:center; height:100%; margin-top:2px;">
+            <div style="display:flex; justify-content:flex-end; align-items:center; height:0; margin-top:-52px; margin-bottom:18px;">
                 <a href="https://ndgmusicschool.com/en/" target="_self" style="
                     display:inline-block;
                     text-decoration:none;
@@ -906,7 +904,8 @@ def main():
                     color:#ffd84d;
                     font-weight:600;
                     text-align:center;
-                    width:100%;
+                    width:50%;
+                    min-width:180px;
                 ">Return to NDG Music School</a>
             </div>
             """,

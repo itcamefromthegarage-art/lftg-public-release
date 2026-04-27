@@ -7,9 +7,9 @@ FORMAT
 - COMMIT
 
 2026-04-27
-- Positioned the in-app "Return to NDG Music School" button in the ExampleB location: same row as tabs, aligned on the right side beside the tab cluster
-- Keeps overall layout while placing the return control in the requested right-side tab-row position
-- 0e1336d
+- Hybrid layout update: kept the overall ExampleA page structure while positioning "Return to NDG Music School" in the ExampleB right-side tab-row location
+- Reduced button width to about half-size relative to the previous full-width right control
+- pending
 
 2026-04-24
 - Fixed LFTG sheet sync scripts to write relative to the current repo (not hardcoded workspace paths), then re-synced Programs Data and Video Database
