@@ -352,6 +352,15 @@ def load_data():
         if col in videos.columns:
             videos[col] = videos[col].fillna("").astype(str).str.strip()
 
+    for col in ["show_id", "band_id", "is_solo"]:
+        if col in bands.columns:
+            bands[col] = bands[col].fillna("").astype(str).str.strip()
+
+    if {"show_id", "band_id", "is_solo"}.issubset(appearances.columns.union(bands.columns)):
+        solo_flags = bands[["show_id", "band_id", "is_solo"]].drop_duplicates()
+        appearances = appearances.merge(solo_flags, on=["show_id", "band_id"], how="left")
+        appearances["is_solo"] = appearances["is_solo"].fillna("no").astype(str).str.strip()
+
     return appearances, shows, bands, videos
 
 
@@ -365,9 +374,20 @@ def render_performer_profile(appearances: pd.DataFrame, videos: pd.DataFrame, pe
 
     unique_shows = sorted(df["show_label"].unique().tolist(), key=show_sort_key)
     unique_bands = sorted(df["band_name"].unique().tolist(), key=lambda x: x.casefold())
+    solo_mask = (
+        df.get("is_solo", pd.Series("no", index=df.index))
+        .fillna("no")
+        .astype(str)
+        .str.casefold()
+        .eq("yes")
+    )
+    is_all_solo = bool(solo_mask.all())
+    has_solo = bool(solo_mask.any())
+    band_metric_label = "Solo appearances" if is_all_solo else "Acts performed in" if has_solo else "Bands played with"
+    band_metric_value = len(unique_shows) if is_all_solo else len(unique_bands)
     c1, c2 = st.columns(2)
     c1.metric("Unique shows", len(unique_shows))
-    c2.metric("Bands played with", len(unique_bands))
+    c2.metric(band_metric_label, band_metric_value)
 
     st.markdown("BAND PHOTO")
     band_opts = df[["band_name", "show_label", "band_id"]].drop_duplicates().copy()
