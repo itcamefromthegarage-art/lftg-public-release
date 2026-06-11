@@ -300,6 +300,22 @@ def render_video_player(video_df: pd.DataFrame, key_prefix: str):
     else:
         opts["video_label"] = opts.iloc[:, 0].astype(str)
 
+    lftg24_mask = pd.Series(False, index=opts.index)
+    if "show_id" in opts.columns:
+        lftg24_mask = lftg24_mask | (opts["show_id"].astype(str).str.strip() == "lftg-24-2026")
+    if "show_label" in opts.columns:
+        lftg24_mask = lftg24_mask | (opts["show_label"].astype(str).str.strip() == "LFTG 24 (2026)")
+
+    if lftg24_mask.any():
+        if lftg24_mask.all():
+            opts = opts.head(1).copy()
+            opts["video_label"] = "Coming soon"
+        else:
+            opts.loc[lftg24_mask, "video_label"] = opts.loc[lftg24_mask, "show_label"].astype(str) + " — Coming soon"
+            opts = opts.drop_duplicates(subset=["video_label"]).copy()
+        if "url" in opts.columns:
+            opts.loc[opts["video_label"].astype(str).str.contains("Coming soon", regex=False), "url"] = ""
+
     labels = opts["video_label"].tolist()
     selected_label = st.selectbox("Play a video", labels, key=f"video_pick_{key_prefix}")
     selected_row = opts.loc[opts["video_label"] == selected_label].iloc[0]
