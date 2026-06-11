@@ -334,7 +334,10 @@ def get_query_param(name: str):
 
 
 @st.cache_data(show_spinner=False)
-def load_data():
+def load_data(data_fingerprint=None):
+    # data_fingerprint is intentionally unused inside the function body.
+    # Passing CSV mtimes into the cached function makes Streamlit invalidate
+    # stale cached data after data-only deploys where app.py does not change.
     appearances = pd.read_csv(APPEARANCES_CSV)
     shows = pd.read_csv(SHOWS_CSV)
     bands = pd.read_csv(BANDS_CSV)
@@ -362,6 +365,11 @@ def load_data():
         appearances["is_solo"] = appearances["is_solo"].fillna("no").astype(str).str.strip()
 
     return appearances, shows, bands, videos
+
+
+def data_fingerprint():
+    files = [APPEARANCES_CSV, SHOWS_CSV, BANDS_CSV, VIDEOS_CSV]
+    return tuple((str(path), path.stat().st_mtime_ns if path.exists() else None) for path in files)
 
 
 def render_performer_profile(appearances: pd.DataFrame, videos: pd.DataFrame, performer: str, key_prefix: str = "perf"):
@@ -931,7 +939,7 @@ def main():
         st.error("Data files not found. Run sync first: python3 lftg-data/sync-from-sheet.py")
         return
 
-    appearances, shows, bands, videos = load_data()
+    appearances, shows, bands, videos = load_data(data_fingerprint())
 
     tab1, tab2, tab3, tab4, tab5 = st.tabs(["Show Explorer", "Performer", "Band", "Leaderboards", "What Is LFTG?"])
 
