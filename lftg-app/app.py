@@ -306,14 +306,15 @@ def render_video_player(video_df: pd.DataFrame, key_prefix: str):
     if "show_label" in opts.columns:
         lftg24_mask = lftg24_mask | (opts["show_label"].astype(str).str.strip() == "LFTG 24 (2026)")
 
-    if lftg24_mask.any():
-        if lftg24_mask.all():
-            opts = opts.head(1).copy()
-            opts["video_label"] = "Coming soon"
-        else:
-            opts.loc[lftg24_mask, "video_label"] = opts.loc[lftg24_mask, "show_label"].astype(str) + " — Coming soon"
-            opts = opts.drop_duplicates(subset=["video_label"]).copy()
-        if "url" in opts.columns:
+    if lftg24_mask.any() and "url" in opts.columns:
+        lftg24_has_urls = opts.loc[lftg24_mask, "url"].fillna("").astype(str).str.strip().ne("").any()
+        if not lftg24_has_urls:
+            if lftg24_mask.all():
+                opts = opts.head(1).copy()
+                opts["video_label"] = "Coming soon"
+            else:
+                opts.loc[lftg24_mask, "video_label"] = opts.loc[lftg24_mask, "show_label"].astype(str) + " — Coming soon"
+                opts = opts.drop_duplicates(subset=["video_label"]).copy()
             opts.loc[opts["video_label"].astype(str).str.contains("Coming soon", regex=False), "url"] = ""
 
     labels = opts["video_label"].tolist()
