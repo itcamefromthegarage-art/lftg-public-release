@@ -129,12 +129,14 @@ def apply_theme(theme_name: str):
             color: #ffffff !important;
             text-shadow: none !important;
         }}
-        .stTabs [data-baseweb="tab-list"] {{
+        .stTabs [data-baseweb="tab-list"],
+        div[role="tablist"] {{
             gap: 8px;
             width: 100%;
             align-items: stretch;
         }}
-        .stTabs [data-baseweb="tab"] {{
+        .stTabs [data-baseweb="tab"],
+        div[role="tab"] {{
             border-radius: 8px;
             border: 1px solid {t['accent']};
             padding: 8px 12px;
@@ -145,7 +147,8 @@ def apply_theme(theme_name: str):
             background: rgba(20,12,8,0.62);
             color: #ffd84d !important;
         }}
-        .stTabs [data-baseweb="tab"] * {{
+        .stTabs [data-baseweb="tab"] *,
+        div[role="tab"] * {{
             color: #ffd84d !important;
         }}
         .ndg-tab-spacer {{
@@ -167,22 +170,32 @@ def apply_theme(theme_name: str):
             white-space: nowrap;
         }}
 
-        /* Dropdowns: black backgrounds with white text */
+        /* Dropdowns: black backgrounds with white text.
+           Streamlit 1.50 moved selectboxes from BaseWeb to React Aria, so keep
+           both selector families here to avoid future frontend drift. */
         [data-testid="stSelectbox"] [data-baseweb="select"] > div,
         [data-testid="stMultiSelect"] [data-baseweb="select"] > div,
         [data-testid="stSelectbox"] [data-baseweb="select"] input,
         [data-testid="stMultiSelect"] [data-baseweb="select"] input,
+        [data-testid="stSelectbox"] .react-aria-ComboBox > div[role="group"],
+        [data-testid="stSelectbox"] .react-aria-ComboBox > div[role="group"] input,
+        [data-testid="stSelectbox"] .react-aria-ComboBox > div[role="group"] button,
+        [data-testid="stMultiSelect"] .react-aria-ComboBox > div[role="group"],
+        [data-testid="stMultiSelect"] .react-aria-ComboBox > div[role="group"] input,
+        [data-testid="stMultiSelect"] .react-aria-ComboBox > div[role="group"] button,
         div[data-baseweb="popover"],
         div[data-baseweb="popover"] > div,
         ul[role="listbox"],
         div[role="listbox"] {{
             background: rgba(0,0,0,0.92) !important;
-            border: 1px solid #ffd84d88 !important;
+            border-color: #ffd84d88 !important;
+            color: #ffffff !important;
         }}
         div[data-baseweb="popover"] li,
         div[data-baseweb="popover"] ul,
         div[data-baseweb="popover"] [role="option"],
-        ul[role="listbox"] li {{
+        ul[role="listbox"] li,
+        div[role="listbox"] [role="option"] {{
             background: rgba(0,0,0,0.92) !important;
         }}
         [data-testid="stSelectbox"],
@@ -198,7 +211,8 @@ def apply_theme(theme_name: str):
             color: #ffffff !important;
             text-shadow: none !important;
         }}
-        div[role="option"]:hover {{
+        div[role="option"]:hover,
+        div[role="listbox"] [role="option"]:hover {{
             background: rgba(255,216,77,0.22) !important;
         }}
 
@@ -964,26 +978,40 @@ def main():
         """
         <script>
         (function () {
-          const doc = window.parent.document;
-          const tabList = doc.querySelector('.stTabs [data-baseweb="tab-list"]');
-          if (!tabList) return;
+          function installReturnLink() {
+            const doc = window.parent.document;
+            const tabList =
+              doc.querySelector('.stTabs [data-baseweb="tab-list"]') ||
+              doc.querySelector('[role="tablist"]');
+            if (!tabList) return false;
 
-          if (!doc.getElementById('ndg-return-tab-link')) {
-            if (!tabList.querySelector('.ndg-tab-spacer')) {
-              const spacer = doc.createElement('div');
-              spacer.className = 'ndg-tab-spacer';
-              tabList.appendChild(spacer);
+            if (!doc.getElementById('ndg-return-tab-link')) {
+              if (!tabList.querySelector('.ndg-tab-spacer')) {
+                const spacer = doc.createElement('div');
+                spacer.className = 'ndg-tab-spacer';
+                tabList.appendChild(spacer);
+              }
+
+              const link = doc.createElement('a');
+              link.id = 'ndg-return-tab-link';
+              link.className = 'ndg-return-tab-link';
+              link.href = 'https://ndgmusicschool.com/en/';
+              link.target = '_self';
+              link.rel = 'noopener';
+              link.textContent = 'Return to NDG Music School';
+              tabList.appendChild(link);
             }
-
-            const link = doc.createElement('a');
-            link.id = 'ndg-return-tab-link';
-            link.className = 'ndg-return-tab-link';
-            link.href = 'https://ndgmusicschool.com/en/';
-            link.target = '_self';
-            link.rel = 'noopener';
-            link.textContent = 'Return to NDG Music School';
-            tabList.appendChild(link);
+            return true;
           }
+
+          if (installReturnLink()) return;
+          let attempts = 0;
+          const timer = setInterval(function () {
+            attempts += 1;
+            if (installReturnLink() || attempts >= 25) {
+              clearInterval(timer);
+            }
+          }, 200);
         })();
         </script>
         """,
